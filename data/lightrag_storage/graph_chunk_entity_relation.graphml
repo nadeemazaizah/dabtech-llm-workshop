@@ -1,0 +1,1918 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Nassem Azaiza">
+      <data key="d0">Nassem Azaiza</data>
+      <data key="d1">person</data>
+      <data key="d2">Nassem Azaiza is a professional with experience in software and validation engineering at Apple and a background in computer science from Technion - Israel Institute of Technology.</data>
+      <data key="d3">chunk-f243a356dca11764395f4052277d996c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287844</data>
+      <data key="d6" />
+    </node>
+    <node id="Apple">
+      <data key="d0">Apple</data>
+      <data key="d1">company</data>
+      <data key="d2">Apple is a technology company where Nassem Azaiza has worked as a SW &amp; Validation Engineer since March 2021 and previously as a SW &amp; Validation Student.</data>
+      <data key="d3">chunk-f243a356dca11764395f4052277d996c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287844</data>
+      <data key="d6" />
+    </node>
+    <node id="Technion - Israel Institute of Technology">
+      <data key="d0">Technion - Israel Institute of Technology</data>
+      <data key="d1">education_institution</data>
+      <data key="d2">Technion - Israel Institute of Technology is an academic institution where Nassem Azaiza earned a Bachelor's degree in Computer Science from 2017 to 2021.&lt;SEP&gt;Technion - Israel Institute of Technology is an academic institution where Nael Masalha obtained a Bachelor's degree in Computer Science.&lt;SEP&gt;Technion - Israel Institute of Technology is a higher education institution where students can pursue degrees in various fields, including Computer Science.&lt;SEP&gt;The Technion - Israel Institute of Technology is where Husam Massalha earned a Bachelor of Science in Computer Science and received the Dean Excellence Award.&lt;SEP&gt;The Technion - Israel Institute of Technology is the institution where Ronza Najjar completed a Master of Science in Biomedical/Medical Engineering.</data>
+      <data key="d3">chunk-f243a356dca11764395f4052277d996c&lt;SEP&gt;chunk-d84c8ca0c6eeac527607e34110940387&lt;SEP&gt;chunk-b7b9fb14f9b955f9be538cc2bcafc234&lt;SEP&gt;chunk-9e634f986041d8c67c32eb5566ca0de4&lt;SEP&gt;chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287953</data>
+      <data key="d6" />
+    </node>
+    <node id="SW &amp; Validation Engineer">
+      <data key="d0">SW &amp; Validation Engineer</data>
+      <data key="d1">position</data>
+      <data key="d2">SW &amp; Validation Engineer is a full-time position held by Nassem Azaiza at Apple, specializing in software and validation engineering since March 2021.</data>
+      <data key="d3">chunk-f243a356dca11764395f4052277d996c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287844</data>
+      <data key="d6" />
+    </node>
+    <node id="SW &amp; Validation Student">
+      <data key="d0">SW &amp; Validation Student</data>
+      <data key="d1">position</data>
+      <data key="d2">SW &amp; Validation Student is a part-time position that Nassem Azaiza held at Apple from September 2019 to March 2021, focusing on software and validation engineering tasks.</data>
+      <data key="d3">chunk-f243a356dca11764395f4052277d996c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287844</data>
+      <data key="d6" />
+    </node>
+    <node id="Nael Masalha">
+      <data key="d0">Nael Masalha</data>
+      <data key="d1">person</data>
+      <data key="d2">Nael Masalha is a senior security architect currently working at Nvidia with extensive experience in security and software engineering.</data>
+      <data key="d3">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287846</data>
+      <data key="d6" />
+    </node>
+    <node id="Nvidia">
+      <data key="d0">Nvidia</data>
+      <data key="d1">company</data>
+      <data key="d2">Nvidia is a technology company where Nael Masalha is employed as a senior security architect.</data>
+      <data key="d3">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287846</data>
+      <data key="d6" />
+    </node>
+    <node id="Intel Corporation">
+      <data key="d0">Intel Corporation</data>
+      <data key="d1">company</data>
+      <data key="d2">Intel Corporation is a technology company where Nael Masalha previously worked as a senior software technical lead, developing drivers for cameras.&lt;SEP&gt;Intel Corporation is a company where Husam Massalha previously worked as a Software Engineer, responsible for the development and maintenance of an internal CAD tool.&lt;SEP&gt;Intel Corporation is a multinational corporation where Ronza Najjar worked as a Process Engineer prior to joining NVIDIA.&lt;SEP&gt;Intel Corporation is a technology company where Amr Shahbari previously worked as an AI Compiler Software Engineer focused on optimizations for Intel-Habana GPUs.</data>
+      <data key="d3">chunk-d84c8ca0c6eeac527607e34110940387&lt;SEP&gt;chunk-9e634f986041d8c67c32eb5566ca0de4&lt;SEP&gt;chunk-47216fd2f4f14ee4c8b42b091f6e64ae&lt;SEP&gt;chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288144</data>
+      <data key="d6" />
+    </node>
+    <node id="Qualcomm">
+      <data key="d0">Qualcomm</data>
+      <data key="d1">company</data>
+      <data key="d2">Qualcomm is a technology company where Nael Masalha served as a software engineer, focusing on Windows drivers and web technologies.</data>
+      <data key="d3">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287846</data>
+      <data key="d6" />
+    </node>
+    <node id="Bachelor's Degree in Computer Science">
+      <data key="d0">Bachelor's Degree in Computer Science</data>
+      <data key="d1">degree</data>
+      <data key="d2">The Bachelor's degree in Computer Science is an academic qualification earned by Nael Masalha from Technion - Israel Institute of Technology.&lt;SEP&gt;Bachelor's degree in Computer Science is an undergraduate academic qualification awarded to students who complete a program focused on computer science disciplines.</data>
+      <data key="d3">chunk-d84c8ca0c6eeac527607e34110940387&lt;SEP&gt;chunk-b7b9fb14f9b955f9be538cc2bcafc234</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287846</data>
+      <data key="d6" />
+    </node>
+    <node id="Senior Security Architect">
+      <data key="d0">Senior Security Architect</data>
+      <data key="d1">position</data>
+      <data key="d2">Senior Security Architect is the current position held by Nael Masalha at Nvidia.</data>
+      <data key="d3">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287846</data>
+      <data key="d6" />
+    </node>
+    <node id="Senior Software Technical Lead">
+      <data key="d0">Senior Software Technical Lead</data>
+      <data key="d1">position</data>
+      <data key="d2">Senior Software Technical Lead is a previous position held by Nael Masalha at Intel Corporation, involving development of software drivers.</data>
+      <data key="d3">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287846</data>
+      <data key="d6" />
+    </node>
+    <node id="Husam Massalha">
+      <data key="d0">Husam Massalha</data>
+      <data key="d1">person</data>
+      <data key="d2">Husam Massalha is a professional CAD developer with expertise in static time analysis, chip signal integrity, and regression tools.</data>
+      <data key="d3">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287848</data>
+      <data key="d6" />
+    </node>
+    <node id="Dataloop AI">
+      <data key="d0">Dataloop AI</data>
+      <data key="d1">company</data>
+      <data key="d2">Dataloop AI is a company where Husam Massalha works as an AI Engineer, focusing on integrating advanced AI models and delivering tailored AI-powered solutions.</data>
+      <data key="d3">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287848</data>
+      <data key="d6" />
+    </node>
+    <node id="Bachelor of Science (B.Sc.), Computer Science">
+      <data key="d0">Bachelor of Science (B.Sc.), Computer Science</data>
+      <data key="d1">degree</data>
+      <data key="d2">Husam Massalha received a Bachelor of Science degree in Computer Science from the Technion - Israel Institute of Technology.</data>
+      <data key="d3">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287848</data>
+      <data key="d6" />
+    </node>
+    <node id="Static Time Analysis">
+      <data key="d0">Static Time Analysis</data>
+      <data key="d1">skill</data>
+      <data key="d2">Static Time Analysis is a specialized skill possessed by Husam Massalha relevant to his work in CAD development.</data>
+      <data key="d3">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287848</data>
+      <data key="d6" />
+    </node>
+    <node id="Chip Signal Integrity">
+      <data key="d0">Chip Signal Integrity</data>
+      <data key="d1">skill</data>
+      <data key="d2">Chip Signal Integrity is a technical skill that Husam Massalha has experience in, crucial for ensuring proper functioning of integrated circuits.</data>
+      <data key="d3">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287848</data>
+      <data key="d6" />
+    </node>
+    <node id="Regression Tool">
+      <data key="d0">Regression Tool</data>
+      <data key="d1">technology</data>
+      <data key="d2">Regression Tool is a technology utilized by Husam Massalha in his work within CAD development to test and validate tool performance.</data>
+      <data key="d3">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287848</data>
+      <data key="d6" />
+    </node>
+    <node id="Linux Drivers SW Technical Lead">
+      <data key="d0">Linux Drivers SW Technical Lead</data>
+      <data key="d1">position</data>
+      <data key="d2">Linux Drivers SW Technical Lead is a past role of Nael Masalha at Intel Corporation, focusing on developing drivers for the 3D RealSense Camera.</data>
+      <data key="d3">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287849</data>
+      <data key="d6" />
+    </node>
+    <node id="Android Camera HAL/Provider SW Technical Lead">
+      <data key="d0">Android Camera HAL/Provider SW Technical Lead</data>
+      <data key="d1">position</data>
+      <data key="d2">Android Camera HAL/Provider SW Technical Lead is a former position of Nael Masalha at Intel Corporation, centered on developing hardware abstraction layers for Intel RealSense cameras.</data>
+      <data key="d3">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287849</data>
+      <data key="d6" />
+    </node>
+    <node id="Windows Drivers SW Engineer">
+      <data key="d0">Windows Drivers SW Engineer</data>
+      <data key="d1">position</data>
+      <data key="d2">Windows Drivers SW Engineer was a prior position held by Nael Masalha at Intel Corporation, where he developed Windows drivers for camera devices.</data>
+      <data key="d3">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287851</data>
+      <data key="d6" />
+    </node>
+    <node id="Web Technologies SW Engineer">
+      <data key="d0">Web Technologies SW Engineer</data>
+      <data key="d1">position</data>
+      <data key="d2">Web Technologies SW Engineer is an earlier role of Nael Masalha at Qualcomm, focusing on optimizing Android browsing user experience.</data>
+      <data key="d3">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287851</data>
+      <data key="d6" />
+    </node>
+    <node id="Build and Release">
+      <data key="d0">Build and Release</data>
+      <data key="d1">technology</data>
+      <data key="d2">Build and Release refers to a process that Husam Massalha engages in during his CAD development work, focusing on delivering finalized software solutions.</data>
+      <data key="d3">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287852</data>
+      <data key="d6" />
+    </node>
+    <node id="Ronza Najjar">
+      <data key="d0">Ronza Najjar</data>
+      <data key="d1">person</data>
+      <data key="d2">Ronza Najjar is a professional with experience in process development and engineering in technology and education sectors.</data>
+      <data key="d3">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287910</data>
+      <data key="d6" />
+    </node>
+    <node id="NVIDIA">
+      <data key="d0">NVIDIA</data>
+      <data key="d1">company</data>
+      <data key="d2">NVIDIA is a technology company where Ronza Najjar currently works as a Senior Process Development Engineer specializing in micro-electro-optics.</data>
+      <data key="d3">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287910</data>
+      <data key="d6" />
+    </node>
+    <node id="Midad Psychometry">
+      <data key="d0">Midad Psychometry</data>
+      <data key="d1">company</data>
+      <data key="d2">Midad Psychometry is an organization where Ronza Najjar served as an English Instructor and contributed to material development.</data>
+      <data key="d3">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287910</data>
+      <data key="d6" />
+    </node>
+    <node id="Eqraa Psychometry">
+      <data key="d0">Eqraa Psychometry</data>
+      <data key="d1">company</data>
+      <data key="d2">Eqraa Psychometry is where Ronza Najjar worked as an English Language Instructor, focusing on tutoring for the Psychometric exam.</data>
+      <data key="d3">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287910</data>
+      <data key="d6" />
+    </node>
+    <node id="Master of Science - MS, Biomedical/Medical Engineering">
+      <data key="d0">Master of Science - MS, Biomedical/Medical Engineering</data>
+      <data key="d1">degree</data>
+      <data key="d2">The Master of Science in Biomedical/Medical Engineering is the degree obtained by Ronza Najjar from the Technion between 2020 and 2023.</data>
+      <data key="d3">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287910</data>
+      <data key="d6" />
+    </node>
+    <node id="Senior Process Development Engineer">
+      <data key="d0">Senior Process Development Engineer</data>
+      <data key="d1">position</data>
+      <data key="d2">Senior Process Development Engineer is the title held by Ronza Najjar at NVIDIA, focusing on process development in micro-electro-optics.</data>
+      <data key="d3">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287910</data>
+      <data key="d6" />
+    </node>
+    <node id="Nadeem Azaizah">
+      <data key="d0">Nadeem Azaizah</data>
+      <data key="d1">person</data>
+      <data key="d2">Nadeem Azaizah is a Senior Data Scientist, Machine Learning Engineer, and AI Developer specializing in end-to-end data science projects and AI/ML solutions using Python.</data>
+      <data key="d3">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287920</data>
+      <data key="d6" />
+    </node>
+    <node id="University of Haifa">
+      <data key="d0">University of Haifa</data>
+      <data key="d1">education_institution</data>
+      <data key="d2">The University of Haifa is the institution where Nadeem Azaizah obtained a Master’s degree in Data Science.&lt;SEP&gt;The University of Haifa is the educational institution from which Naeem Azaizah obtained a Bachelor's degree in Management Information Systems.&lt;SEP&gt;The University of Haifa is an academic institution located in Haifa, Israel, offering various degree programs.&lt;SEP&gt;The University of Haifa is where Adam Azaizah served as a Teacher Assistant, teaching skills related to OOP and Java.</data>
+      <data key="d3">chunk-97bc0a9c2f180118f40c087eb249a5ea&lt;SEP&gt;chunk-ddb21cbe77182fc88644f210518705d7&lt;SEP&gt;chunk-c7c2d4ce202adef13742c973a72b66b1&lt;SEP&gt;chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288198</data>
+      <data key="d6" />
+    </node>
+    <node id="Ariel University">
+      <data key="d0">Ariel University</data>
+      <data key="d1">education_institution</data>
+      <data key="d2">Ariel University is an academic institution where the PhD in Industrial Engineering and Management was pursued, specializing in Graph-Based AI and ML.&lt;SEP&gt;Ariel University is where Nadeem Azaizah earned a PhD in Industrial Engineering and Management, focusing on graph-based event correlation in IT operations.&lt;SEP&gt;Ariel University is an academic institution where the individual completed a Ph.D. in Industrial Engineering and Management.</data>
+      <data key="d3">chunk-97bc0a9c2f180118f40c087eb249a5ea&lt;SEP&gt;chunk-343fecb2de7f8d996ac16589ba666460&lt;SEP&gt;chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287920</data>
+      <data key="d6" />
+    </node>
+    <node id="Microsoft">
+      <data key="d0">Microsoft</data>
+      <data key="d1">company</data>
+      <data key="d2">Microsoft is the current employer of Nadeem Azaizah, where he leads the development of enterprise AI solutions.</data>
+      <data key="d3">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287920</data>
+      <data key="d6" />
+    </node>
+    <node id="Feelit Technologies">
+      <data key="d0">Feelit Technologies</data>
+      <data key="d1">company</data>
+      <data key="d2">Feelit Technologies is a previous employer where Nadeem Azaizah worked with IoT time series and tabular data, building machine learning models.</data>
+      <data key="d3">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287920</data>
+      <data key="d6" />
+    </node>
+    <node id="Amdocs">
+      <data key="d0">Amdocs</data>
+      <data key="d1">company</data>
+      <data key="d2">Amdocs is a previous employer of Nadeem Azaizah, where he worked as a Data Scientist and Machine Learning Engineer.&lt;SEP&gt;Amdocs is a company where Naeem Azaizah worked as an Operations Analyst, dealing with system operations and automation development.</data>
+      <data key="d3">chunk-97bc0a9c2f180118f40c087eb249a5ea&lt;SEP&gt;chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288255</data>
+      <data key="d6" />
+    </node>
+    <node id="Generative AI">
+      <data key="d0">Generative AI</data>
+      <data key="d1">technology</data>
+      <data key="d2">Generative AI is a type of AI technology that Nadeem Azaizah utilizes in developing enterprise solutions at Microsoft.</data>
+      <data key="d3">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287920</data>
+      <data key="d6" />
+    </node>
+    <node id="AI/ML Solutions">
+      <data key="d0">AI/ML Solutions</data>
+      <data key="d1">technology</data>
+      <data key="d2">AI/ML solutions refer to artificial intelligence and machine learning applications that Nadeem Azaizah develops and implements across various domains.</data>
+      <data key="d3">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287920</data>
+      <data key="d6" />
+    </node>
+    <node id="Process Engineer">
+      <data key="d0">Process Engineer</data>
+      <data key="d1">position</data>
+      <data key="d2">Process Engineer is the title previously held by Ronza Najjar at Intel Corporation, responsible for monitoring and implementing process changes in manufacturing.</data>
+      <data key="d3">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287950</data>
+      <data key="d6" />
+    </node>
+    <node id="English Instructor">
+      <data key="d0">English Instructor</data>
+      <data key="d1">position</data>
+      <data key="d2">English Instructor is the position Ronza Najjar held at Midad Psychometry, focusing on teaching English and developing educational materials.</data>
+      <data key="d3">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287951</data>
+      <data key="d6" />
+    </node>
+    <node id="English Language Instructor">
+      <data key="d0">English Language Instructor</data>
+      <data key="d1">position</data>
+      <data key="d2">English Language Instructor is the role Ronza Najjar occupied at Eqraa Psychometry, assisting students with the Psychometric exam.</data>
+      <data key="d3">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287951</data>
+      <data key="d6" />
+    </node>
+    <node id="Graph Neural Networks">
+      <data key="d0">Graph Neural Networks</data>
+      <data key="d1">technology</data>
+      <data key="d2">Graph Neural Networks (GNNs) are advanced algorithms that Nadeem Azaizah has deep expertise in, particularly for knowledge graphs.</data>
+      <data key="d3">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287955</data>
+      <data key="d6" />
+    </node>
+    <node id="CI/CD Solutions">
+      <data key="d0">CI/CD Solutions</data>
+      <data key="d1">technology</data>
+      <data key="d2">CI/CD solutions are methods for continuous integration and continuous deployment that Nadeem Azaizah implemented in ML projects.</data>
+      <data key="d3">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287955</data>
+      <data key="d6" />
+    </node>
+    <node id="Python">
+      <data key="d0">Python</data>
+      <data key="d1">programming_language</data>
+      <data key="d2">Python is an interpreted, high-level programming language known for its readability and versatility.&lt;SEP&gt;Python is a programming language that Nadeem Azaizah uses to build AI/ML solutions and perform data science projects.</data>
+      <data key="d3">chunk-97bc0a9c2f180118f40c087eb249a5ea&lt;SEP&gt;chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287955</data>
+      <data key="d6" />
+    </node>
+    <node id="Anomaly Detection">
+      <data key="d0">Anomaly Detection</data>
+      <data key="d1">study</data>
+      <data key="d2">Anomaly detection is a focus area for Nadeem Azaizah, involving building ML models to identify irregularities in data.</data>
+      <data key="d3">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287955</data>
+      <data key="d6" />
+    </node>
+    <node id="Natural Language Processing">
+      <data key="d0">Natural Language Processing</data>
+      <data key="d1">study</data>
+      <data key="d2">Natural Language Processing (NLP) is a domain in which Nadeem Azaizah specializes while developing AI/ML solutions.</data>
+      <data key="d3">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287955</data>
+      <data key="d6" />
+    </node>
+    <node id="Airflow">
+      <data key="d0">Airflow</data>
+      <data key="d1">technology</data>
+      <data key="d2">Airflow is a platform used for orchestrating complex computational workflows and managing scheduled tasks.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287955</data>
+      <data key="d6" />
+    </node>
+    <node id="NetworkX">
+      <data key="d0">NetworkX</data>
+      <data key="d1">technology</data>
+      <data key="d2">NetworkX is a Python package used for the creation, manipulation, and study of complex networks of nodes and edges.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287955</data>
+      <data key="d6" />
+    </node>
+    <node id="Gephi">
+      <data key="d0">Gephi</data>
+      <data key="d1">technology</data>
+      <data key="d2">Gephi is an open-source visualization and exploration software for all kinds of networks and complex systems.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763287956</data>
+      <data key="d6" />
+    </node>
+    <node id="Machine Learning">
+      <data key="d0">Machine Learning</data>
+      <data key="d1">skill</data>
+      <data key="d2">Machine learning is a method of data analysis that automates analytical model building, using algorithms that learn from data.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288012</data>
+      <data key="d6" />
+    </node>
+    <node id="Node2Vec">
+      <data key="d0">Node2Vec</data>
+      <data key="d1">technology</data>
+      <data key="d2">Node2Vec is an algorithm designed to create vector representations of nodes in a graph.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288013</data>
+      <data key="d6" />
+    </node>
+    <node id="GNN">
+      <data key="d0">GNN</data>
+      <data key="d1">technology</data>
+      <data key="d2">GNN (Graph Neural Networks) is a type of neural network designed to work directly on graph structure data.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288013</data>
+      <data key="d6" />
+    </node>
+    <node id="GitLab">
+      <data key="d0">GitLab</data>
+      <data key="d1">technology</data>
+      <data key="d2">GitLab is a web-based DevOps lifecycle tool that provides a Git repository manager with features such as issue tracking and CI/CD.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288013</data>
+      <data key="d6" />
+    </node>
+    <node id="Docker">
+      <data key="d0">Docker</data>
+      <data key="d1">technology</data>
+      <data key="d2">Docker is a tool designed to make it easier to create, deploy, and run applications by using containers.&lt;SEP&gt;Docker is a platform Adam Azaizah is hands-on with, utilizing it in various automation and development processes.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460&lt;SEP&gt;chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288198</data>
+      <data key="d6" />
+    </node>
+    <node id="AtomIQ SmartOps">
+      <data key="d0">AtomIQ SmartOps</data>
+      <data key="d1">company</data>
+      <data key="d2">AtomIQ SmartOps is an innovative unit that specializes in end-to-end data science projects and machine learning solutions.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288013</data>
+      <data key="d6" />
+    </node>
+    <node id="Scikit-Learn">
+      <data key="d0">Scikit-Learn</data>
+      <data key="d1">technology</data>
+      <data key="d2">Scikit-Learn is a machine learning library for Python that provides simple and efficient tools for data mining and data analysis.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288014</data>
+      <data key="d6" />
+    </node>
+    <node id="Scipy">
+      <data key="d0">Scipy</data>
+      <data key="d1">technology</data>
+      <data key="d2">Scipy is an open-source Python library used for mathematics, science, and engineering.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288014</data>
+      <data key="d6" />
+    </node>
+    <node id="Pandas">
+      <data key="d0">Pandas</data>
+      <data key="d1">technology</data>
+      <data key="d2">Pandas is a Python library providing high-performance data manipulation and analysis tools.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288015</data>
+      <data key="d6" />
+    </node>
+    <node id="NumPy">
+      <data key="d0">NumPy</data>
+      <data key="d1">technology</data>
+      <data key="d2">NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288015</data>
+      <data key="d6" />
+    </node>
+    <node id="TensorFlow">
+      <data key="d0">TensorFlow</data>
+      <data key="d1">technology</data>
+      <data key="d2">TensorFlow is an open-source machine learning framework developed by Google for numerical computation and machine learning.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288016</data>
+      <data key="d6" />
+    </node>
+    <node id="PyTorch">
+      <data key="d0">PyTorch</data>
+      <data key="d1">technology</data>
+      <data key="d2">PyTorch is an open-source machine learning library based on the Torch library, used for applications such as neural networks.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288017</data>
+      <data key="d6" />
+    </node>
+    <node id="Gensim">
+      <data key="d0">Gensim</data>
+      <data key="d1">technology</data>
+      <data key="d2">Gensim is a Python library for topic modeling and document similarity analysis.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288017</data>
+      <data key="d6" />
+    </node>
+    <node id="Kafka">
+      <data key="d0">Kafka</data>
+      <data key="d1">technology</data>
+      <data key="d2">Kafka is an open-source stream processing platform designed for high-throughput and low-latency data feeds.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288017</data>
+      <data key="d6" />
+    </node>
+    <node id="Redis">
+      <data key="d0">Redis</data>
+      <data key="d1">technology</data>
+      <data key="d2">Redis is an open-source in-memory data structure store, used as a database, cache, and message broker.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288071</data>
+      <data key="d6" />
+    </node>
+    <node id="InfluxDB">
+      <data key="d0">InfluxDB</data>
+      <data key="d1">technology</data>
+      <data key="d2">InfluxDB is an open-source time series database designed to handle high write and query loads.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288071</data>
+      <data key="d6" />
+    </node>
+    <node id="Kapacitor">
+      <data key="d0">Kapacitor</data>
+      <data key="d1">technology</data>
+      <data key="d2">Kapacitor is a data processing engine for processing, monitoring, and alerting on time series data.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288072</data>
+      <data key="d6" />
+    </node>
+    <node id="Grafana">
+      <data key="d0">Grafana</data>
+      <data key="d1">technology</data>
+      <data key="d2">Grafana is an open-source platform for monitoring and observability, known for its graphical features and support for various databases.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288072</data>
+      <data key="d6" />
+    </node>
+    <node id="Alerta">
+      <data key="d0">Alerta</data>
+      <data key="d1">technology</data>
+      <data key="d2">Alerta is an open-source alert management tool designed for maintaining a clear overview of alerts from different sources.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288073</data>
+      <data key="d6" />
+    </node>
+    <node id="Postgres DB">
+      <data key="d0">Postgres DB</data>
+      <data key="d1">technology</data>
+      <data key="d2">Postgres DB is an open-source object-relational database system known for its robustness and performance.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288074</data>
+      <data key="d6" />
+    </node>
+    <node id="Business Analyst">
+      <data key="d0">Business Analyst</data>
+      <data key="d1">position</data>
+      <data key="d2">Business Analyst (Product Owner) is a role focused on analyzing business and technical requirements and overseeing project solutions in the telecom industry.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288074</data>
+      <data key="d6" />
+    </node>
+    <node id="PhD in Industrial Engineering and Management">
+      <data key="d0">PhD in Industrial Engineering and Management</data>
+      <data key="d1">degree</data>
+      <data key="d2">The PhD in Industrial Engineering and Management focuses on advanced studies and research in industrial engineering with a specialization in Graph-Based AI and ML.&lt;SEP&gt;The PhD in Industrial Engineering and Management is a doctoral degree focused on advanced research and methodologies in industrial systems.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460&lt;SEP&gt;chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288074</data>
+      <data key="d6" />
+    </node>
+    <node id="Amdocs Ordering System">
+      <data key="d0">Amdocs Ordering System</data>
+      <data key="d1">technology</data>
+      <data key="d2">Amdocs Ordering System (OMS) is a system used in the telecom industry for managing and processing customer orders.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288074</data>
+      <data key="d6" />
+    </node>
+    <node id="Amdocs Product Catalog">
+      <data key="d0">Amdocs Product Catalog</data>
+      <data key="d1">technology</data>
+      <data key="d2">Amdocs Product Catalog (EPC/MEC) is a system facilitating the management of product offerings and associated services within the telecom industry.</data>
+      <data key="d3">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288074</data>
+      <data key="d6" />
+    </node>
+    <node id="Graph-Based AI and ML">
+      <data key="d0">Graph-Based AI and ML</data>
+      <data key="d1">study</data>
+      <data key="d2">Graph-Based AI and ML is a specialization within the PhD program involving the application of graph theory and machine learning in engineering.</data>
+      <data key="d3">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288077</data>
+      <data key="d6" />
+    </node>
+    <node id="17th ILAIS Conference">
+      <data key="d0">17th ILAIS Conference</data>
+      <data key="d1">event</data>
+      <data key="d2">The 17th ILAIS Conference is an event where research related to information systems is presented, including the research on Graph-Based Event Correlation and Prediction for IT Operations.</data>
+      <data key="d3">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288077</data>
+      <data key="d6" />
+    </node>
+    <node id="Graph-Based Event Correlation and Prediction for IT Operations">
+      <data key="d0">Graph-Based Event Correlation and Prediction for IT Operations</data>
+      <data key="d1">study</data>
+      <data key="d2">Graph-Based Event Correlation and Prediction for IT Operations is a research project presented at the 17th ILAIS Conference focusing on predictive modeling in IT operations.</data>
+      <data key="d3">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288077</data>
+      <data key="d6" />
+    </node>
+    <node id="Graph Machine Learning">
+      <data key="d0">Graph Machine Learning</data>
+      <data key="d1">skill</data>
+      <data key="d2">Graph Machine Learning refers to a skill in applying machine learning techniques to graph-structured data for analysis and prediction.</data>
+      <data key="d3">chunk-823915220b51cc9d77e2aa5c5bd55728&lt;SEP&gt;chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288077</data>
+      <data key="d6" />
+    </node>
+    <node id="Graph Embeddings">
+      <data key="d0">Graph Embeddings</data>
+      <data key="d1">skill</data>
+      <data key="d2">Graph Embeddings relate to the representation of graph data in lower-dimensional spaces to facilitate analysis and machine learning applications.</data>
+      <data key="d3">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288131</data>
+      <data key="d6" />
+    </node>
+    <node id="Graph Neural Network">
+      <data key="d0">Graph Neural Network</data>
+      <data key="d1">technology</data>
+      <data key="d2">Graph Neural Network is a type of neural network designed to operate on graph data, capturing the dependencies and relationships between nodes.</data>
+      <data key="d3">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288132</data>
+      <data key="d6" />
+    </node>
+    <node id="Link Prediction">
+      <data key="d0">Link Prediction</data>
+      <data key="d1">skill</data>
+      <data key="d2">Link Prediction is a technique in graph theory and machine learning used to predict future connections between nodes in a graph.</data>
+      <data key="d3">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288132</data>
+      <data key="d6" />
+    </node>
+    <node id="The Academic College of Tel-Aviv">
+      <data key="d0">The Academic College of Tel-Aviv</data>
+      <data key="d1">education_institution</data>
+      <data key="d2">The Academic College of Tel-Aviv is the institution where the 17th ILAIS Conference was held.</data>
+      <data key="d3">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288132</data>
+      <data key="d6" />
+    </node>
+    <node id="Amr Shahbari">
+      <data key="d0">Amr Shahbari</data>
+      <data key="d1">person</data>
+      <data key="d2">Amr Shahbari is a software engineer working at Huawei’s TLV Research Center and pursuing a Master’s in Computer Science at the Open University.</data>
+      <data key="d3">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288144</data>
+      <data key="d6" />
+    </node>
+    <node id="Huawei">
+      <data key="d0">Huawei</data>
+      <data key="d1">company</data>
+      <data key="d2">Huawei is a global technology company where Amr Shahbari works as a Software Engineer at its TLV Research Center.</data>
+      <data key="d3">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288144</data>
+      <data key="d6" />
+    </node>
+    <node id="TLV Research Center">
+      <data key="d0">TLV Research Center</data>
+      <data key="d1">location</data>
+      <data key="d2">The TLV Research Center is a facility of Huawei located in Tel Aviv District, Israel, where advanced technology projects are conducted.</data>
+      <data key="d3">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288144</data>
+      <data key="d6" />
+    </node>
+    <node id="Open University">
+      <data key="d0">Open University</data>
+      <data key="d1">education_institution</data>
+      <data key="d2">The Open University is where Amr Shahbari is pursuing a Master’s in Computer Science, focusing on topics such as Image Processing and AI.</data>
+      <data key="d3">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288144</data>
+      <data key="d6" />
+    </node>
+    <node id="Master of Science - MS, Computer Science">
+      <data key="d0">Master of Science - MS, Computer Science</data>
+      <data key="d1">degree</data>
+      <data key="d2">The degree pursued by Amr Shahbari at the Open University, indicating advanced study in computer science.</data>
+      <data key="d3">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288144</data>
+      <data key="d6" />
+    </node>
+    <node id="CEVA, Inc.">
+      <data key="d0">CEVA, Inc.</data>
+      <data key="d1">company</data>
+      <data key="d2">CEVA, Inc. is a technology company where Amr Shahbari worked as a Compiler Software Engineer, optimizing LLVM compiler-generated code.</data>
+      <data key="d3">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288144</data>
+      <data key="d6" />
+    </node>
+    <node id="Compiler Software Engineer">
+      <data key="d0">Compiler Software Engineer</data>
+      <data key="d1">position</data>
+      <data key="d2">A position held by Amr Shahbari at CEVA, Inc. focusing on optimizing compiler technologies.</data>
+      <data key="d3">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288144</data>
+      <data key="d6" />
+    </node>
+    <node id="Naeem Azaizah">
+      <data key="d0">Naeem Azaizah</data>
+      <data key="d1">person</data>
+      <data key="d2">Naeem Azaizah is the CEO &amp; Founder of a leading local company specializing in sports-business management systems, passionate about business growth and client management.</data>
+      <data key="d3">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288149</data>
+      <data key="d6" />
+    </node>
+    <node id="Fitx">
+      <data key="d0">Fitx</data>
+      <data key="d1">company</data>
+      <data key="d2">Fitx is a company where Naeem Azaizah serves as CEO &amp; Founder, focusing on managing sports-business processes since January 2019.</data>
+      <data key="d3">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288149</data>
+      <data key="d6" />
+    </node>
+    <node id="Target Point">
+      <data key="d0">Target Point</data>
+      <data key="d1">company</data>
+      <data key="d2">Target Point is a company where Naeem Azaizah was the Founder, involved in the development of various digital management tools.</data>
+      <data key="d3">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288149</data>
+      <data key="d6" />
+    </node>
+    <node id="Management Information Systems">
+      <data key="d0">Management Information Systems</data>
+      <data key="d1">degree</data>
+      <data key="d2">Management Information Systems is the field of study for Naeem Azaizah's Bachelor's degree, emphasizing information technology and business processes.</data>
+      <data key="d3">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288149</data>
+      <data key="d6" />
+    </node>
+    <node id="Carbon-Fiber Spikes">
+      <data key="d0">Carbon-Fiber Spikes</data>
+      <data key="d1">technology</data>
+      <data key="d2">Carbon-fiber spikes are advanced sprinting shoes that provide enhanced speed and traction, utilized by sprinters for optimal performance.</data>
+      <data key="d3">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288149</data>
+      <data key="d6" />
+    </node>
+    <node id="Adam Azaizah">
+      <data key="d0">Adam Azaizah</data>
+      <data key="d1">person</data>
+      <data key="d2">Adam Azaizah is an experienced Automation Engineer with expertise in networking and healthcare applications, skilled in testing frameworks and Linux-based systems.</data>
+      <data key="d3">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288151</data>
+      <data key="d6" />
+    </node>
+    <node id="Cisco">
+      <data key="d0">Cisco</data>
+      <data key="d1">company</data>
+      <data key="d2">Cisco is a technology company where Adam Azaizah works as an ASIC Engineer, contributing to their automation efforts.</data>
+      <data key="d3">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288151</data>
+      <data key="d6" />
+    </node>
+    <node id="Harmonic">
+      <data key="d0">Harmonic</data>
+      <data key="d1">company</data>
+      <data key="d2">Harmonic is a company where Adam Azaizah served as an Automation Engineer, focusing on CableOS, a virtualized Cable Modem Termination System.</data>
+      <data key="d3">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288151</data>
+      <data key="d6" />
+    </node>
+    <node id="K2View">
+      <data key="d0">K2View</data>
+      <data key="d1">company</data>
+      <data key="d2">K2View is a company where Adam Azaizah worked as an Automation Developer, engaged in automation projects using Java and SQL.</data>
+      <data key="d3">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288151</data>
+      <data key="d6" />
+    </node>
+    <node id="Philips">
+      <data key="d0">Philips</data>
+      <data key="d1">company</data>
+      <data key="d2">Philips is a company where Adam Azaizah worked as an Automation Engineer for the IntelliSpace Portal, enhancing data integration and visualization.</data>
+      <data key="d3">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288151</data>
+      <data key="d6" />
+    </node>
+    <node id="Radware">
+      <data key="d0">Radware</data>
+      <data key="d1">company</data>
+      <data key="d2">Radware is a company where Adam Azaizah was a QA Automation Engineer, focusing on networking and developing automation tests.</data>
+      <data key="d3">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288151</data>
+      <data key="d6" />
+    </node>
+    <node id="Kubernetes">
+      <data key="d0">Kubernetes</data>
+      <data key="d1">technology</data>
+      <data key="d2">Kubernetes is an orchestration technology experience that Adam Azaizah possesses, commonly used in complex environments.</data>
+      <data key="d3">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288151</data>
+      <data key="d6" />
+    </node>
+    <node id="AI Compiler Software Engineer">
+      <data key="d0">AI Compiler Software Engineer</data>
+      <data key="d1">position</data>
+      <data key="d2">The role previously held by Amr Shahbari at Intel Corporation, supporting Triton for Intel-Habana GPUs.</data>
+      <data key="d3">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288192</data>
+      <data key="d6" />
+    </node>
+    <node id="Toga Networks">
+      <data key="d0">Toga Networks</data>
+      <data key="d1">company</data>
+      <data key="d2">Toga Networks is part of Huawei's TLV Research Center where Amr Shahbari works as a Hands-On Software Engineer and Compiler Expert.</data>
+      <data key="d3">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288194</data>
+      <data key="d6" />
+    </node>
+    <node id="Hands-On Software Engineer and Compiler Expert">
+      <data key="d0">Hands-On Software Engineer and Compiler Expert</data>
+      <data key="d1">position</data>
+      <data key="d2">The current position held by Amr Shahbari at Toga Networks, focusing on compiler technologies.</data>
+      <data key="d3">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288194</data>
+      <data key="d6" />
+    </node>
+    <node id="Tel Aviv District, Israel">
+      <data key="d0">Tel Aviv District, Israel</data>
+      <data key="d1">location</data>
+      <data key="d2">Tel Aviv District is the location in Israel where both Huawei TLV Research Center and Amr Shahbari's previous positions were situated.</data>
+      <data key="d3">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288194</data>
+      <data key="d6" />
+    </node>
+    <node id="JUnit">
+      <data key="d0">JUnit</data>
+      <data key="d1">testing_framework</data>
+      <data key="d2">JUnit is a unit testing framework for the Java programming language.&lt;SEP&gt;JUnit is a testing framework that Adam Azaizah is proficient in, used for writing and executing tests in Java.</data>
+      <data key="d3">chunk-c7c2d4ce202adef13742c973a72b66b1&lt;SEP&gt;chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288199</data>
+      <data key="d6" />
+    </node>
+    <node id="NUnit">
+      <data key="d0">NUnit</data>
+      <data key="d1">testing_framework</data>
+      <data key="d2">NUnit is a testing framework that is part of Adam Azaizah's expertise, used for testing applications in .NET.</data>
+      <data key="d3">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288201</data>
+      <data key="d6" />
+    </node>
+    <node id="pytest">
+      <data key="d0">pytest</data>
+      <data key="d1">testing_framework</data>
+      <data key="d2">pytest is a testing framework that Adam Azaizah has proven expertise in, particularly for Python applications.</data>
+      <data key="d3">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288201</data>
+      <data key="d6" />
+    </node>
+    <node id="ASIC Engineer">
+      <data key="d0">ASIC Engineer</data>
+      <data key="d1">position</data>
+      <data key="d2">ASIC Engineer is a position held by Adam Azaizah at Cisco, focusing on automation projects.</data>
+      <data key="d3">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288201</data>
+      <data key="d6" />
+    </node>
+    <node id="Automation Developer">
+      <data key="d0">Automation Developer</data>
+      <data key="d1">position</data>
+      <data key="d2">Automation Developer is a position held by Adam Azaizah at Harmonic, where he worked on CableOS.</data>
+      <data key="d3">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288253</data>
+      <data key="d6" />
+    </node>
+    <node id="Teacher Assistant">
+      <data key="d0">Teacher Assistant</data>
+      <data key="d1">position</data>
+      <data key="d2">Teacher Assistant is a position held by Adam Azaizah at the University of Haifa, involving teaching responsibilities.</data>
+      <data key="d3">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288253</data>
+      <data key="d6" />
+    </node>
+    <node id="Java">
+      <data key="d0">Java</data>
+      <data key="d1">programming_language</data>
+      <data key="d2">Java is a widely used programming language known for its portability and use in enterprise-level applications.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288253</data>
+      <data key="d6" />
+    </node>
+    <node id="Eclipse IDE">
+      <data key="d0">Eclipse IDE</data>
+      <data key="d1">technology</data>
+      <data key="d2">Eclipse IDE is an integrated development environment used for Java development and programming.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288254</data>
+      <data key="d6" />
+    </node>
+    <node id="Git">
+      <data key="d0">Git</data>
+      <data key="d1">technology</data>
+      <data key="d2">Git is a version control system used for tracking changes in source code during software development.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288255</data>
+      <data key="d6" />
+    </node>
+    <node id="Maven">
+      <data key="d0">Maven</data>
+      <data key="d1">technology</data>
+      <data key="d2">Maven is a build automation tool primarily used for Java projects, managing project dependencies.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288255</data>
+      <data key="d6" />
+    </node>
+    <node id="Artifactory">
+      <data key="d0">Artifactory</data>
+      <data key="d1">technology</data>
+      <data key="d2">Artifactory is a repository manager that stores binary artifacts, facilitating dependency management.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288255</data>
+      <data key="d6" />
+    </node>
+    <node id="Jenkins">
+      <data key="d0">Jenkins</data>
+      <data key="d1">technology</data>
+      <data key="d2">Jenkins is a continuous integration tool used to automate the building and testing of software.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288255</data>
+      <data key="d6" />
+    </node>
+    <node id="Linux">
+      <data key="d0">Linux</data>
+      <data key="d1">operating_system</data>
+      <data key="d2">Linux is an open-source operating system widely used for servers and development environments.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288257</data>
+      <data key="d6" />
+    </node>
+    <node id="Windows">
+      <data key="d0">Windows</data>
+      <data key="d1">operating_system</data>
+      <data key="d2">Windows is a popular operating system developed by Microsoft, known for its user-friendly interface.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288258</data>
+      <data key="d6" />
+    </node>
+    <node id="TCP/IP">
+      <data key="d0">TCP/IP</data>
+      <data key="d1">skill</data>
+      <data key="d2">TCP/IP refers to the suite of communication protocols used to interconnect network devices on the internet.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288259</data>
+      <data key="d6" />
+    </node>
+    <node id="OOP">
+      <data key="d0">OOP</data>
+      <data key="d1">skill</data>
+      <data key="d2">OOP stands for Object-Oriented Programming, a programming paradigm based on the concept of objects.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288259</data>
+      <data key="d6" />
+    </node>
+    <node id="Stress Testing">
+      <data key="d0">Stress Testing</data>
+      <data key="d1">skill</data>
+      <data key="d2">Stress Testing is a type of testing that evaluates the performance of a system under extreme conditions.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288312</data>
+      <data key="d6" />
+    </node>
+    <node id="Automation">
+      <data key="d0">Automation</data>
+      <data key="d1">skill</data>
+      <data key="d2">Automation involves using technology to perform tasks with minimal human intervention.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288313</data>
+      <data key="d6" />
+    </node>
+    <node id="Security">
+      <data key="d0">Security</data>
+      <data key="d1">skill</data>
+      <data key="d2">Security refers to the measures taken to protect software and systems from threats and vulnerabilities.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288313</data>
+      <data key="d6" />
+    </node>
+    <node id="Avalanche">
+      <data key="d0">Avalanche</data>
+      <data key="d1">skill</data>
+      <data key="d2">Avalanche is a specific technology or software related to automated performance testing or monitoring.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288313</data>
+      <data key="d6" />
+    </node>
+    <node id="QA Automation Engineer">
+      <data key="d0">QA Automation Engineer</data>
+      <data key="d1">position</data>
+      <data key="d2">QA Automation Engineer is a professional position focused on automating software testing to improve quality and efficiency.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288314</data>
+      <data key="d6" />
+    </node>
+    <node id="Bachelor of Science (BSc), Computer Science">
+      <data key="d0">Bachelor of Science (BSc), Computer Science</data>
+      <data key="d1">degree</data>
+      <data key="d2">A Bachelor of Science (BSc) in Computer Science is an undergraduate degree focusing on computing technology and programming.</data>
+      <data key="d3">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288316</data>
+      <data key="d6" />
+    </node>
+    <node id="Noah Carter">
+      <data key="d0">Noah Carter</data>
+      <data key="d3">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d2">Noah Carter received official confirmation of PhD completion from Ariel University.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288374</data>
+      <data key="d6" />
+    </node>
+    <node id="Official PhD Completion Confirmation">
+      <data key="d0">Official PhD Completion Confirmation</data>
+      <data key="d3">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d2">Noah Carter received official confirmation of PhD completion from Ariel University.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288377</data>
+      <data key="d6" />
+    </node>
+    <node id="Business Process Management">
+      <data key="d0">Business Process Management</data>
+      <data key="d3">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d2">Naeem Azaizah has studied Business Process Management, contributing to his expertise in developing effective sports management systems.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288432</data>
+      <data key="d6" />
+    </node>
+    <node id="Customer Relationships Management">
+      <data key="d0">Customer Relationships Management</data>
+      <data key="d3">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d2">Naeem Azaizah has studied managing customer relationships, enhancing his ability to build and maintain business connections.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763288434</data>
+      <data key="d6" />
+    </node>
+    <edge source="Nassem Azaiza" target="Apple">
+      <data key="d7">1.0</data>
+      <data key="d8">Nassem Azaiza is employed at Apple as a SW &amp; Validation Engineer and previously as a SW &amp; Validation Student.</data>
+      <data key="d9">employment,professional experience</data>
+      <data key="d10">chunk-f243a356dca11764395f4052277d996c</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287848</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nassem Azaiza" target="Technion - Israel Institute of Technology">
+      <data key="d7">1.0</data>
+      <data key="d8">Nassem Azaiza completed a Bachelor's degree in Computer Science at Technion - Israel Institute of Technology.</data>
+      <data key="d9">academic achievement,education</data>
+      <data key="d10">chunk-f243a356dca11764395f4052277d996c</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287891</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technion - Israel Institute of Technology" target="Bachelor's Degree in Computer Science">
+      <data key="d7">2.0</data>
+      <data key="d8">The Bachelor's degree in Computer Science was obtained from Technion - Israel Institute of Technology.&lt;SEP&gt;Technion - Israel Institute of Technology confers a Bachelor's degree in Computer Science upon completion of the relevant program.</data>
+      <data key="d9">degree acquisition,degree attainment,education,institution</data>
+      <data key="d10">chunk-d84c8ca0c6eeac527607e34110940387&lt;SEP&gt;chunk-b7b9fb14f9b955f9be538cc2bcafc234</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287892</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technion - Israel Institute of Technology" target="Husam Massalha">
+      <data key="d7">1.0</data>
+      <data key="d8">Husam Massalha obtained his Bachelor of Science degree in Computer Science from the Technion - Israel Institute of Technology.</data>
+      <data key="d9">degree achievement,education</data>
+      <data key="d10">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287896</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technion - Israel Institute of Technology" target="Nael Masalha">
+      <data key="d7">1.0</data>
+      <data key="d8">Nael Masalha earned a Bachelor's degree in Computer Science from Technion - Israel Institute of Technology.</data>
+      <data key="d9">academic achievement,education</data>
+      <data key="d10">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287896</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technion - Israel Institute of Technology" target="Ronza Najjar">
+      <data key="d7">1.0</data>
+      <data key="d8">Ronza Najjar obtained a Master of Science in Biomedical/Medical Engineering from the Technion.</data>
+      <data key="d9">degree,education</data>
+      <data key="d10">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288132</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nael Masalha" target="Nvidia">
+      <data key="d7">1.0</data>
+      <data key="d8">Nael Masalha is currently employed as a senior security architect at Nvidia.</data>
+      <data key="d9">current position,employment</data>
+      <data key="d10">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287892</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nael Masalha" target="Intel Corporation">
+      <data key="d7">1.0</data>
+      <data key="d8">Nael Masalha previously worked at Intel Corporation as a senior software technical lead.</data>
+      <data key="d9">employment history,previous role</data>
+      <data key="d10">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287893</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nael Masalha" target="Qualcomm">
+      <data key="d7">1.0</data>
+      <data key="d8">Nael Masalha worked at Qualcomm as a software engineer, focusing on driver development.</data>
+      <data key="d9">employment history,previous role</data>
+      <data key="d10">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287895</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nael Masalha" target="Senior Software Technical Lead">
+      <data key="d7">1.0</data>
+      <data key="d8">Nael Masalha held the position of Senior Software Technical Lead at Intel Corporation prior to his current role.</data>
+      <data key="d9">employment history,previous role</data>
+      <data key="d10">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287953</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nael Masalha" target="Linux Drivers SW Technical Lead">
+      <data key="d7">1.0</data>
+      <data key="d8">Nael Masalha served as a Linux Drivers SW Technical Lead at Intel Corporation, responsible for driver development.</data>
+      <data key="d9">employment history,previous role</data>
+      <data key="d10">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287956</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nael Masalha" target="Android Camera HAL/Provider SW Technical Lead">
+      <data key="d7">1.0</data>
+      <data key="d8">Nael Masalha worked as an Android Camera HAL/Provider SW Technical Lead at Intel Corporation.</data>
+      <data key="d9">employment history,previous role</data>
+      <data key="d10">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288014</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nael Masalha" target="Windows Drivers SW Engineer">
+      <data key="d7">1.0</data>
+      <data key="d8">Nael Masalha held the role of Windows Drivers SW Engineer at Intel Corporation, focusing on driver development.</data>
+      <data key="d9">employment history,previous role</data>
+      <data key="d10">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288072</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nael Masalha" target="Web Technologies SW Engineer">
+      <data key="d7">1.0</data>
+      <data key="d8">Nael Masalha previously worked as a Web Technologies SW Engineer at Qualcomm.</data>
+      <data key="d9">employment history,previous role</data>
+      <data key="d10">chunk-d84c8ca0c6eeac527607e34110940387</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288076</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Intel Corporation" target="Husam Massalha">
+      <data key="d7">1.0</data>
+      <data key="d8">Husam Massalha was previously employed as a Software Engineer at Intel Corporation, overseeing CAD tool development.</data>
+      <data key="d9">Software Engineering,employment</data>
+      <data key="d10">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287895</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Intel Corporation" target="Ronza Najjar">
+      <data key="d7">1.0</data>
+      <data key="d8">Ronza Najjar previously worked at Intel Corporation as a Process Engineer.</data>
+      <data key="d9">employment,previous role</data>
+      <data key="d10">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288014</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Intel Corporation" target="Amr Shahbari">
+      <data key="d7">1.0</data>
+      <data key="d8">Amr Shahbari previously worked at Intel Corporation as an AI Compiler Software Engineer.</data>
+      <data key="d9">previous employment,work</data>
+      <data key="d10">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288316</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Husam Massalha" target="Dataloop AI">
+      <data key="d7">1.0</data>
+      <data key="d8">Husam Massalha is currently employed as an AI Engineer at Dataloop AI, where he integrates advanced AI models.</data>
+      <data key="d9">AI Engineering,employment</data>
+      <data key="d10">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287892</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Husam Massalha" target="Bachelor of Science (B.Sc.), Computer Science">
+      <data key="d7">1.0</data>
+      <data key="d8">Husam Massalha received a Bachelor of Science (B.Sc.) in Computer Science as part of his educational background.</data>
+      <data key="d9">academic qualification,degree attainment</data>
+      <data key="d10">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287896</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Husam Massalha" target="Static Time Analysis">
+      <data key="d7">1.0</data>
+      <data key="d8">Husam Massalha has professional expertise in static time analysis, applicable in his CAD developer role.</data>
+      <data key="d9">professional expertise,skillset</data>
+      <data key="d10">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287953</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Husam Massalha" target="Chip Signal Integrity">
+      <data key="d7">1.0</data>
+      <data key="d8">Husam Massalha has technical skill in chip signal integrity, relevant to his work in ensuring the integrity of signals in integrated circuits.</data>
+      <data key="d9">professional expertise,technical skill</data>
+      <data key="d10">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763287957</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Husam Massalha" target="Regression Tool">
+      <data key="d7">1.0</data>
+      <data key="d8">Husam Massalha utilizes regression tools as part of his work in CAD development to improve tool accuracy.</data>
+      <data key="d9">CAD development,technology usage</data>
+      <data key="d10">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288014</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Husam Massalha" target="Build and Release">
+      <data key="d7">1.0</data>
+      <data key="d8">Husam Massalha engages in build and release processes in his role as a CAD developer, ensuring timely software delivery.</data>
+      <data key="d9">software delivery,workflow process</data>
+      <data key="d10">chunk-9e634f986041d8c67c32eb5566ca0de4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288071</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ronza Najjar" target="NVIDIA">
+      <data key="d7">1.0</data>
+      <data key="d8">Ronza Najjar is currently employed at NVIDIA as a Senior Process Development Engineer.</data>
+      <data key="d9">current role,employment</data>
+      <data key="d10">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288012</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ronza Najjar" target="Midad Psychometry">
+      <data key="d7">1.0</data>
+      <data key="d8">Ronza Najjar worked at Midad Psychometry as an English Instructor.</data>
+      <data key="d9">employment,instructor role</data>
+      <data key="d10">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288073</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ronza Najjar" target="Eqraa Psychometry">
+      <data key="d7">1.0</data>
+      <data key="d8">Ronza Najjar served as an English Language Instructor at Eqraa Psychometry.</data>
+      <data key="d9">employment,instructor role</data>
+      <data key="d10">chunk-47216fd2f4f14ee4c8b42b091f6e64ae</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288077</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nadeem Azaizah" target="University of Haifa">
+      <data key="d7">1.0</data>
+      <data key="d8">Nadeem Azaizah holds a Master’s degree in Data Science from the University of Haifa.</data>
+      <data key="d9">degree,education</data>
+      <data key="d10">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288134</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nadeem Azaizah" target="Ariel University">
+      <data key="d7">1.0</data>
+      <data key="d8">Nadeem Azaizah earned a PhD in Industrial Engineering and Management from Ariel University.</data>
+      <data key="d9">degree,education</data>
+      <data key="d10">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288136</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nadeem Azaizah" target="Microsoft">
+      <data key="d7">1.0</data>
+      <data key="d8">Nadeem Azaizah is currently employed at Microsoft, leading enterprise AI solutions development.</data>
+      <data key="d9">employment,project leadership</data>
+      <data key="d10">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288137</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nadeem Azaizah" target="Feelit Technologies">
+      <data key="d7">1.0</data>
+      <data key="d8">Nadeem Azaizah previously worked at Feelit Technologies focusing on IoT data analysis and ML model building.</data>
+      <data key="d9">data analysis,employment</data>
+      <data key="d10">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288194</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nadeem Azaizah" target="Amdocs">
+      <data key="d7">1.0</data>
+      <data key="d8">Nadeem Azaizah worked at Amdocs as a Data Scientist and Machine Learning Engineer.</data>
+      <data key="d9">data science,employment</data>
+      <data key="d10">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288252</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nadeem Azaizah" target="Generative AI">
+      <data key="d7">1.0</data>
+      <data key="d8">Nadeem Azaizah uses Generative AI technology to develop enterprise solutions at Microsoft.</data>
+      <data key="d9">solution development,technology use</data>
+      <data key="d10">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288255</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nadeem Azaizah" target="Graph Neural Networks">
+      <data key="d7">1.0</data>
+      <data key="d8">Nadeem Azaizah has deep expertise in Graph Neural Networks, especially in knowledge graphs.</data>
+      <data key="d9">expertise,technology</data>
+      <data key="d10">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288313</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nadeem Azaizah" target="CI/CD Solutions">
+      <data key="d7">1.0</data>
+      <data key="d8">Nadeem Azaizah implements CI/CD solutions in his machine learning projects.</data>
+      <data key="d9">ML projects,technology use</data>
+      <data key="d10">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288316</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nadeem Azaizah" target="Python">
+      <data key="d7">1.0</data>
+      <data key="d8">Nadeem Azaizah utilizes Python programming language in his data science and AI/ML projects.</data>
+      <data key="d9">programming,technology use</data>
+      <data key="d10">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288372</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nadeem Azaizah" target="Anomaly Detection">
+      <data key="d7">1.0</data>
+      <data key="d8">Nadeem Azaizah has expertise in anomaly detection through machine learning methods.</data>
+      <data key="d9">ML modeling,expertise</data>
+      <data key="d10">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288375</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nadeem Azaizah" target="Natural Language Processing">
+      <data key="d7">1.0</data>
+      <data key="d8">Nadeem Azaizah specializes in Natural Language Processing as part of his AI/ML solution development.</data>
+      <data key="d9">AI/ML solution,expertise</data>
+      <data key="d10">chunk-97bc0a9c2f180118f40c087eb249a5ea</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288377</data>
+      <data key="d13" />
+    </edge>
+    <edge source="University of Haifa" target="Naeem Azaizah">
+      <data key="d7">1.0</data>
+      <data key="d8">Naeem Azaizah earned a Bachelor's degree in Management Information Systems from the University of Haifa.</data>
+      <data key="d9">degree attainment,education</data>
+      <data key="d10">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288375</data>
+      <data key="d13" />
+    </edge>
+    <edge source="University of Haifa" target="Adam Azaizah">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah served as a Teacher Assistant at the University of Haifa, teaching OOP and Java.</data>
+      <data key="d9">education,teaching role</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288434</data>
+      <data key="d13" />
+    </edge>
+    <edge source="University of Haifa" target="Bachelor of Science (BSc), Computer Science">
+      <data key="d7">1.0</data>
+      <data key="d8">The University of Haifa grants a Bachelor of Science (BSc) in Computer Science.</data>
+      <data key="d9">degree,education</data>
+      <data key="d10">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ariel University" target="PhD in Industrial Engineering and Management">
+      <data key="d7">2.0</data>
+      <data key="d8">Ariel University offers the PhD in Industrial Engineering and Management degree program.&lt;SEP&gt;Ariel University is the institution that conferred the PhD in Industrial Engineering and Management.</data>
+      <data key="d9">degree conferral,degree program,education,educational program</data>
+      <data key="d10">chunk-343fecb2de7f8d996ac16589ba666460&lt;SEP&gt;chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288255</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ariel University" target="Graph Machine Learning">
+      <data key="d7">1.0</data>
+      <data key="d8">Ariel University specializes in Graph Machine Learning as part of its PhD program.</data>
+      <data key="d9">academic research,specialization</data>
+      <data key="d10">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288317</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ariel University" target="17th ILAIS Conference">
+      <data key="d7">1.0</data>
+      <data key="d8">Ariel University is associated with the 17th ILAIS Conference through its research presentations.</data>
+      <data key="d9">academic institution,event participation</data>
+      <data key="d10">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288375</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Amdocs" target="Naeem Azaizah">
+      <data key="d7">1.0</data>
+      <data key="d8">Naeem Azaizah worked at Amdocs as an Operations Analyst, focusing on system support and automation.</data>
+      <data key="d9">employment,operations</data>
+      <data key="d10">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288373</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NetworkX" target="Graph Machine Learning">
+      <data key="d7">1.0</data>
+      <data key="d8">NetworkX is utilized in research related to Graph Machine Learning methodologies.</data>
+      <data key="d9">researchapplication,tool usage</data>
+      <data key="d10">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288373</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="AtomIQ SmartOps">
+      <data key="d7">1.0</data>
+      <data key="d8">AtomIQ SmartOps applies machine learning techniques in various data science projects.</data>
+      <data key="d9">application,data science</data>
+      <data key="d10">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288252</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Docker" target="Adam Azaizah">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah has hands-on experience with Docker, utilizing it in development processes.</data>
+      <data key="d9">skill,technology usage</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288437</data>
+      <data key="d13" />
+    </edge>
+    <edge source="AtomIQ SmartOps" target="Business Analyst">
+      <data key="d7">1.0</data>
+      <data key="d8">The Business Analyst role contributes to projects at AtomIQ SmartOps, especially in the telecom industry.</data>
+      <data key="d9">industry,job role</data>
+      <data key="d10">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288255</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Business Analyst" target="Amdocs Ordering System">
+      <data key="d7">1.0</data>
+      <data key="d8">The Business Analyst role includes expertise in the Amdocs Ordering System to analyze and implement customer solutions.</data>
+      <data key="d9">job role,system expertise</data>
+      <data key="d10">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288313</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Business Analyst" target="Amdocs Product Catalog">
+      <data key="d7">1.0</data>
+      <data key="d8">The Business Analyst role encompasses experience with the Amdocs Product Catalog for addressing product management needs.</data>
+      <data key="d9">job role,system expertise</data>
+      <data key="d10">chunk-343fecb2de7f8d996ac16589ba666460</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288371</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PhD in Industrial Engineering and Management" target="Graph-Based AI and ML">
+      <data key="d7">1.0</data>
+      <data key="d8">The PhD in Industrial Engineering and Management includes a specialization in Graph-Based AI and ML.</data>
+      <data key="d9">academic focus,specialization</data>
+      <data key="d10">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288371</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Graph-Based AI and ML" target="Graph Machine Learning">
+      <data key="d7">1.0</data>
+      <data key="d8">Graph-Based AI and ML utilizes graph machine learning techniques for analysis and prediction in the research context.</data>
+      <data key="d9">academic skill,application</data>
+      <data key="d10">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288375</data>
+      <data key="d13" />
+    </edge>
+    <edge source="17th ILAIS Conference" target="Graph-Based Event Correlation and Prediction for IT Operations">
+      <data key="d7">1.0</data>
+      <data key="d8">The research on Graph-Based Event Correlation and Prediction for IT Operations was presented at the 17th ILAIS Conference.</data>
+      <data key="d9">academic event,research presentation</data>
+      <data key="d10">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288372</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Amr Shahbari" target="Huawei">
+      <data key="d7">1.0</data>
+      <data key="d8">Amr Shahbari is employed at Huawei where he works as a Software Engineer.</data>
+      <data key="d9">employment,work</data>
+      <data key="d10">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288253</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Amr Shahbari" target="Open University">
+      <data key="d7">1.0</data>
+      <data key="d8">Amr Shahbari is pursuing his Master’s degree in Computer Science at the Open University.</data>
+      <data key="d9">education,study</data>
+      <data key="d10">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288259</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Amr Shahbari" target="CEVA, Inc.">
+      <data key="d7">1.0</data>
+      <data key="d8">Amr Shahbari worked as a Compiler Software Engineer at CEVA, Inc. focusing on optimizing LLVM compiler technologies.</data>
+      <data key="d9">previous employment,work</data>
+      <data key="d10">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288318</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Amr Shahbari" target="Master of Science - MS, Computer Science">
+      <data key="d7">1.0</data>
+      <data key="d8">Amr Shahbari is pursuing a Master of Science in Computer Science as part of his studies at the Open University.</data>
+      <data key="d9">academic pursuit,degree</data>
+      <data key="d10">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288373</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Amr Shahbari" target="Toga Networks">
+      <data key="d7">1.0</data>
+      <data key="d8">Amr Shahbari is employed as a Hands-On Software Engineer and Compiler Expert at Toga Networks within Huawei TLV Research Center.</data>
+      <data key="d9">employment,work</data>
+      <data key="d10">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288376</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Amr Shahbari" target="Tel Aviv District, Israel">
+      <data key="d7">1.0</data>
+      <data key="d8">Amr Shahbari works in the Tel Aviv District, Israel, where the Huawei TLV Research Center is located.</data>
+      <data key="d9">location,work</data>
+      <data key="d10">chunk-093fe7fe6392dd5edd7a438040f48f6b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288432</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Naeem Azaizah" target="Fitx">
+      <data key="d7">1.0</data>
+      <data key="d8">Naeem Azaizah leads Fitx as the CEO &amp; Founder, focusing on sports-business management systems.</data>
+      <data key="d9">entrepreneurship,leadership</data>
+      <data key="d10">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288314</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Naeem Azaizah" target="Target Point">
+      <data key="d7">1.0</data>
+      <data key="d8">Naeem Azaizah founded Target Point, contributing to the development of digital management solutions.</data>
+      <data key="d9">digital tools,foundership</data>
+      <data key="d10">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288318</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Naeem Azaizah" target="Management Information Systems">
+      <data key="d7">1.0</data>
+      <data key="d8">Naeem Azaizah's expertise is rooted in his Bachelor’s degree in Management Information Systems.</data>
+      <data key="d9">academic achievement,specialized knowledge</data>
+      <data key="d10">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288377</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Naeem Azaizah" target="Business Process Management">
+      <data key="d7">1.0</data>
+      <data key="d8">Naeem Azaizah has studied Business Process Management, contributing to his expertise in developing effective sports management systems.</data>
+      <data key="d9">education,specialized knowledge</data>
+      <data key="d10">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288433</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Naeem Azaizah" target="Customer Relationships Management">
+      <data key="d7">1.0</data>
+      <data key="d8">Naeem Azaizah has studied managing customer relationships, enhancing his ability to build and maintain business connections.</data>
+      <data key="d9">education,specialized knowledge</data>
+      <data key="d10">chunk-ddb21cbe77182fc88644f210518705d7</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288435</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adam Azaizah" target="Cisco">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah is employed at Cisco as an ASIC Engineer, contributing to automation projects.</data>
+      <data key="d9">employment,engineering role</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288373</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adam Azaizah" target="Harmonic">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah worked at Harmonic as an Automation Engineer, focusing on virtualized Cable Modem Termination Systems.</data>
+      <data key="d9">automation development,employment</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288376</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adam Azaizah" target="K2View">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah was employed at K2View as an Automation Developer, working with Java and SQL.</data>
+      <data key="d9">automation role,employment</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288377</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adam Azaizah" target="Philips">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah worked at Philips as an Automation Engineer for the IntelliSpace Portal.</data>
+      <data key="d9">automation engineering,employment</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288432</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adam Azaizah" target="Radware">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah worked at Radware as a QA Automation Engineer, focusing on networking and automation testing.</data>
+      <data key="d9">QA automation,employment</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288435</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adam Azaizah" target="Kubernetes">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah possesses hands-on experience with Kubernetes in complex environments.</data>
+      <data key="d9">skill,technology usage</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288436</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adam Azaizah" target="JUnit">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah has proven expertise in using JUnit for testing Java applications.</data>
+      <data key="d9">expertise,testing framework</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288438</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adam Azaizah" target="NUnit">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah is skilled in using NUnit for .NET application testing.</data>
+      <data key="d9">expertise,testing framework</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adam Azaizah" target="pytest">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah has expertise in pytest, particularly for testing Python applications.</data>
+      <data key="d9">expertise,testing framework</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288494</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adam Azaizah" target="ASIC Engineer">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah works as an ASIC Engineer at Cisco.</data>
+      <data key="d9">employment,job title</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288495</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adam Azaizah" target="Automation Developer">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah worked as an Automation Developer at Harmonic.</data>
+      <data key="d9">employment,job title</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288496</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Adam Azaizah" target="Teacher Assistant">
+      <data key="d7">1.0</data>
+      <data key="d8">Adam Azaizah served as a Teacher Assistant at the University of Haifa.</data>
+      <data key="d9">employment,job title</data>
+      <data key="d10">chunk-c7c2d4ce202adef13742c973a72b66b1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288497</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Java" target="QA Automation Engineer">
+      <data key="d7">1.0</data>
+      <data key="d8">The position of QA Automation Engineer requires knowledge and skills in Java programming.</data>
+      <data key="d9">professional skills,programming</data>
+      <data key="d10">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288437</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Eclipse IDE" target="QA Automation Engineer">
+      <data key="d7">1.0</data>
+      <data key="d8">The QA Automation Engineer uses Eclipse IDE as part of their software development workflow.</data>
+      <data key="d9">professional tools,software development</data>
+      <data key="d10">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288438</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Git" target="QA Automation Engineer">
+      <data key="d7">1.0</data>
+      <data key="d8">QA Automation Engineers utilize Git for version control of source code.</data>
+      <data key="d9">software engineering,version control</data>
+      <data key="d10">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288439</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Maven" target="QA Automation Engineer">
+      <data key="d7">1.0</data>
+      <data key="d8">The QA Automation Engineer uses Maven for managing project dependencies and build automation.</data>
+      <data key="d9">build management,software development</data>
+      <data key="d10">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288492</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Jenkins" target="QA Automation Engineer">
+      <data key="d7">1.0</data>
+      <data key="d8">QA Automation Engineers implement Jenkins for continuous integration practices.</data>
+      <data key="d9">automation,continuous integration</data>
+      <data key="d10">chunk-6e2c0e36c2566af590ee83e04c8513c5</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288495</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Noah Carter" target="Official PhD Completion Confirmation">
+      <data key="d7">1.0</data>
+      <data key="d8">Noah Carter received official confirmation of PhD completion from Ariel University.</data>
+      <data key="d9">academic achievement,degree confirmation</data>
+      <data key="d10">chunk-823915220b51cc9d77e2aa5c5bd55728</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763288433</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

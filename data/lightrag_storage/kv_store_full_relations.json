@@ -1,0 +1,394 @@
+{
+  "nassem-azaiza-837163185.txt": {
+    "relation_pairs": [
+      [
+        "Nassem Azaiza",
+        "Technion - Israel Institute of Technology"
+      ],
+      [
+        "Apple",
+        "Nassem Azaiza"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1763287892,
+    "update_time": 1763287892,
+    "_id": "nassem-azaiza-837163185.txt"
+  },
+  "husammassalha.txt": {
+    "relation_pairs": [
+      [
+        "Husam Massalha",
+        "Static Time Analysis"
+      ],
+      [
+        "Bachelor of Science (B.Sc.), Computer Science",
+        "Husam Massalha"
+      ],
+      [
+        "Dataloop AI",
+        "Husam Massalha"
+      ],
+      [
+        "Husam Massalha",
+        "Intel Corporation"
+      ],
+      [
+        "Chip Signal Integrity",
+        "Husam Massalha"
+      ],
+      [
+        "Husam Massalha",
+        "Technion - Israel Institute of Technology"
+      ],
+      [
+        "Husam Massalha",
+        "Regression Tool"
+      ],
+      [
+        "Build and Release",
+        "Husam Massalha"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1763288074,
+    "update_time": 1763288074,
+    "_id": "husammassalha.txt"
+  },
+  "nael-masalha-b271ba6.txt": {
+    "relation_pairs": [
+      [
+        "Android Camera HAL/Provider SW Technical Lead",
+        "Nael Masalha"
+      ],
+      [
+        "Intel Corporation",
+        "Nael Masalha"
+      ],
+      [
+        "Nael Masalha",
+        "Nvidia"
+      ],
+      [
+        "Linux Drivers SW Technical Lead",
+        "Nael Masalha"
+      ],
+      [
+        "Bachelor's Degree in Computer Science",
+        "Technion - Israel Institute of Technology"
+      ],
+      [
+        "Nael Masalha",
+        "Technion - Israel Institute of Technology"
+      ],
+      [
+        "Nael Masalha",
+        "Qualcomm"
+      ],
+      [
+        "Nael Masalha",
+        "Senior Software Technical Lead"
+      ],
+      [
+        "Nael Masalha",
+        "Web Technologies SW Engineer"
+      ],
+      [
+        "Nael Masalha",
+        "Windows Drivers SW Engineer"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1763288132,
+    "update_time": 1763288132,
+    "_id": "nael-masalha-b271ba6.txt"
+  },
+  "ronza-najjar.txt": {
+    "relation_pairs": [
+      [
+        "Midad Psychometry",
+        "Ronza Najjar"
+      ],
+      [
+        "Eqraa Psychometry",
+        "Ronza Najjar"
+      ],
+      [
+        "Intel Corporation",
+        "Ronza Najjar"
+      ],
+      [
+        "Ronza Najjar",
+        "Technion - Israel Institute of Technology"
+      ],
+      [
+        "NVIDIA",
+        "Ronza Najjar"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1763288134,
+    "update_time": 1763288134,
+    "_id": "ronza-najjar.txt"
+  },
+  "amroshah.txt": {
+    "relation_pairs": [
+      [
+        "Amr Shahbari",
+        "Tel Aviv District, Israel"
+      ],
+      [
+        "Amr Shahbari",
+        "Master of Science - MS, Computer Science"
+      ],
+      [
+        "Amr Shahbari",
+        "Open University"
+      ],
+      [
+        "Amr Shahbari",
+        "Toga Networks"
+      ],
+      [
+        "Amr Shahbari",
+        "Intel Corporation"
+      ],
+      [
+        "Amr Shahbari",
+        "CEVA, Inc."
+      ],
+      [
+        "Amr Shahbari",
+        "Huawei"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1763288434,
+    "update_time": 1763288434,
+    "_id": "amroshah.txt"
+  },
+  "nadeem-azaizah.txt": {
+    "relation_pairs": [
+      [
+        "AtomIQ SmartOps",
+        "Machine Learning"
+      ],
+      [
+        "Graph Machine Learning",
+        "Graph-Based AI and ML"
+      ],
+      [
+        "Feelit Technologies",
+        "Nadeem Azaizah"
+      ],
+      [
+        "Generative AI",
+        "Nadeem Azaizah"
+      ],
+      [
+        "Noah Carter",
+        "Official PhD Completion Confirmation"
+      ],
+      [
+        "17th ILAIS Conference",
+        "Graph-Based Event Correlation and Prediction for IT Operations"
+      ],
+      [
+        "Ariel University",
+        "PhD in Industrial Engineering and Management"
+      ],
+      [
+        "AtomIQ SmartOps",
+        "Business Analyst"
+      ],
+      [
+        "Ariel University",
+        "Nadeem Azaizah"
+      ],
+      [
+        "Graph Machine Learning",
+        "NetworkX"
+      ],
+      [
+        "Ariel University",
+        "Graph Machine Learning"
+      ],
+      [
+        "Nadeem Azaizah",
+        "Python"
+      ],
+      [
+        "Amdocs Ordering System",
+        "Business Analyst"
+      ],
+      [
+        "Amdocs",
+        "Nadeem Azaizah"
+      ],
+      [
+        "Graph-Based AI and ML",
+        "PhD in Industrial Engineering and Management"
+      ],
+      [
+        "CI/CD Solutions",
+        "Nadeem Azaizah"
+      ],
+      [
+        "Nadeem Azaizah",
+        "University of Haifa"
+      ],
+      [
+        "Anomaly Detection",
+        "Nadeem Azaizah"
+      ],
+      [
+        "Amdocs Product Catalog",
+        "Business Analyst"
+      ],
+      [
+        "Nadeem Azaizah",
+        "Natural Language Processing"
+      ],
+      [
+        "17th ILAIS Conference",
+        "Ariel University"
+      ],
+      [
+        "Microsoft",
+        "Nadeem Azaizah"
+      ],
+      [
+        "Graph Neural Networks",
+        "Nadeem Azaizah"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1763288434,
+    "update_time": 1763288434,
+    "_id": "nadeem-azaizah.txt"
+  },
+  "naeem-azaizah-3000a278.txt": {
+    "relation_pairs": [
+      [
+        "Fitx",
+        "Naeem Azaizah"
+      ],
+      [
+        "Naeem Azaizah",
+        "Target Point"
+      ],
+      [
+        "Management Information Systems",
+        "Naeem Azaizah"
+      ],
+      [
+        "Customer Relationships Management",
+        "Naeem Azaizah"
+      ],
+      [
+        "Business Process Management",
+        "Naeem Azaizah"
+      ],
+      [
+        "Naeem Azaizah",
+        "University of Haifa"
+      ],
+      [
+        "Amdocs",
+        "Naeem Azaizah"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1763288437,
+    "update_time": 1763288437,
+    "_id": "naeem-azaizah-3000a278.txt"
+  },
+  "adam-azaizah-4b868996.txt": {
+    "relation_pairs": [
+      [
+        "Jenkins",
+        "QA Automation Engineer"
+      ],
+      [
+        "Eclipse IDE",
+        "QA Automation Engineer"
+      ],
+      [
+        "Adam Azaizah",
+        "Philips"
+      ],
+      [
+        "Adam Azaizah",
+        "University of Haifa"
+      ],
+      [
+        "Adam Azaizah",
+        "Kubernetes"
+      ],
+      [
+        "ASIC Engineer",
+        "Adam Azaizah"
+      ],
+      [
+        "Git",
+        "QA Automation Engineer"
+      ],
+      [
+        "Adam Azaizah",
+        "Harmonic"
+      ],
+      [
+        "Adam Azaizah",
+        "Automation Developer"
+      ],
+      [
+        "Bachelor of Science (BSc), Computer Science",
+        "University of Haifa"
+      ],
+      [
+        "Adam Azaizah",
+        "K2View"
+      ],
+      [
+        "Maven",
+        "QA Automation Engineer"
+      ],
+      [
+        "Adam Azaizah",
+        "JUnit"
+      ],
+      [
+        "Adam Azaizah",
+        "Teacher Assistant"
+      ],
+      [
+        "Java",
+        "QA Automation Engineer"
+      ],
+      [
+        "Adam Azaizah",
+        "pytest"
+      ],
+      [
+        "Adam Azaizah",
+        "Cisco"
+      ],
+      [
+        "Adam Azaizah",
+        "Radware"
+      ],
+      [
+        "Adam Azaizah",
+        "Docker"
+      ],
+      [
+        "Adam Azaizah",
+        "NUnit"
+      ]
+    ],
+    "count": 20,
+    "create_time": 1763288498,
+    "update_time": 1763288498,
+    "_id": "adam-azaizah-4b868996.txt"
+  }
+}

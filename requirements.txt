@@ -1,0 +1,16 @@
+python-dotenv
+pandas
+matplotlib
+chainlit
+openai
+openai-agents
+scikit-learn
+plotly
+tiktoken
+llama-index
+llama-index-core
+llama-index-embeddings-azure-openai
+llama-index-vector-stores-lancedb
+lancedb
+lightrag-hku
+pathlib

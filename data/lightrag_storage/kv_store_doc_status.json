@@ -1,0 +1,142 @@
+{
+  "nassem-azaiza-837163185.txt": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f243a356dca11764395f4052277d996c"
+    ],
+    "content_summary": "<Person Nassem Azaiza\n\nAbout\nNone\n\nExperience\n[Experience(institution_name='Apple', linkedin_url='https://www.linkedin.com/company/162479/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_...",
+    "content_length": 988,
+    "created_at": "2025-11-16T09:54:59.460889+00:00",
+    "updated_at": "2025-11-16T10:11:32.317770+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251116_115459_dbdeef97",
+    "metadata": {
+      "processing_start_time": 1763287827,
+      "processing_end_time": 1763287892
+    }
+  },
+  "nael-masalha-b271ba6.txt": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-d84c8ca0c6eeac527607e34110940387",
+      "chunk-b7b9fb14f9b955f9be538cc2bcafc234"
+    ],
+    "content_summary": "<Person Nael Masalha\n\nAbout\nI'm currently a senior security architect at Nvidia.\nI'm currently a senior security architect at Nvidia.\n\nExperience\n[Experience(institution_name='NVIDIA · Full-time', linkedin_url='https://www.linkedin.com/company/3608/'...",
+    "content_length": 5059,
+    "created_at": "2025-11-16T09:54:59.460889+00:00",
+    "updated_at": "2025-11-16T10:15:32.493602+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251116_115459_dbdeef97",
+    "metadata": {
+      "processing_start_time": 1763287827,
+      "processing_end_time": 1763288132
+    }
+  },
+  "ronza-najjar.txt": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-47216fd2f4f14ee4c8b42b091f6e64ae"
+    ],
+    "content_summary": "<Person Ronza Najjar\n\nAbout\nNone\n\nExperience\n[Experience(institution_name='NVIDIA · Full-time', linkedin_url='https://www.linkedin.com/company/3608/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_da...",
+    "content_length": 4683,
+    "created_at": "2025-11-16T09:54:59.460889+00:00",
+    "updated_at": "2025-11-16T10:15:34.648573+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251116_115459_dbdeef97",
+    "metadata": {
+      "processing_start_time": 1763287827,
+      "processing_end_time": 1763288134
+    }
+  },
+  "husammassalha.txt": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-9e634f986041d8c67c32eb5566ca0de4"
+    ],
+    "content_summary": "<Person Husam Massalha\n\nAbout\nA professional CAD developer with several years of experience in static time analysis, chip signal integrity, regression tool, build and release.\nA professional CAD developer with several years of experience in static ti...",
+    "content_length": 2778,
+    "created_at": "2025-11-16T09:54:59.460889+00:00",
+    "updated_at": "2025-11-16T10:14:34.586880+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251116_115459_dbdeef97",
+    "metadata": {
+      "processing_start_time": 1763287827,
+      "processing_end_time": 1763288074
+    }
+  },
+  "nadeem-azaizah.txt": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-97bc0a9c2f180118f40c087eb249a5ea",
+      "chunk-343fecb2de7f8d996ac16589ba666460",
+      "chunk-823915220b51cc9d77e2aa5c5bd55728"
+    ],
+    "content_summary": "<Person Nadeem Azaizah\n\nAbout\nSenior Data Scientist | Machine Learning Engineer | AI Developer\n\nI lead end-to-end data science projects, from ideation and modeling to deployment in production environments. I specialize in building AI/ML solutions usi...",
+    "content_length": 15897,
+    "created_at": "2025-11-16T09:54:59.460889+00:00",
+    "updated_at": "2025-11-16T10:20:34.095644+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251116_115459_dbdeef97",
+    "metadata": {
+      "processing_start_time": 1763287892,
+      "processing_end_time": 1763288434
+    }
+  },
+  "amroshah.txt": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-093fe7fe6392dd5edd7a438040f48f6b"
+    ],
+    "content_summary": "<Person Amr Shahbari\n\nAbout\nHi there. I work as a Software Engineer at Huawei’s TLV Research Center. Outside of work, I’m pursuing my Master’s in Computer Science at the Open University.\nHi there. I work as a Software Engineer at Huawei’s TLV Researc...",
+    "content_length": 4874,
+    "created_at": "2025-11-16T09:54:59.460889+00:00",
+    "updated_at": "2025-11-16T10:20:34.093123+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251116_115459_dbdeef97",
+    "metadata": {
+      "processing_start_time": 1763288075,
+      "processing_end_time": 1763288434
+    }
+  },
+  "naeem-azaizah-3000a278.txt": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-ddb21cbe77182fc88644f210518705d7"
+    ],
+    "content_summary": "<Person Naeem Azaizah\n\nAbout\nAs the CEO & Founder of one of the leading local companies that provide a system for managing a sports-businesses, I’m passionate about enabling businesses to grow. Whether our clients come to us because they struggle to ...",
+    "content_length": 3926,
+    "created_at": "2025-11-16T09:54:59.460889+00:00",
+    "updated_at": "2025-11-16T10:20:37.033834+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251116_115459_dbdeef97",
+    "metadata": {
+      "processing_start_time": 1763288133,
+      "processing_end_time": 1763288437
+    }
+  },
+  "adam-azaizah-4b868996.txt": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1",
+      "chunk-6e2c0e36c2566af590ee83e04c8513c5"
+    ],
+    "content_summary": "<Person Adam Azaizah\n\nAbout\nExperienced Automation Engineer with a strong background in networking and healthcare applications. Proven expertise in testing frameworks such as JUnit, NUnit, and pytest. Highly skilled in working with Linux-based system...",
+    "content_length": 6392,
+    "created_at": "2025-11-16T09:54:59.460889+00:00",
+    "updated_at": "2025-11-16T10:21:38.137284+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251116_115459_dbdeef97",
+    "metadata": {
+      "processing_start_time": 1763288134,
+      "processing_end_time": 1763288498
+    }
+  }
+}

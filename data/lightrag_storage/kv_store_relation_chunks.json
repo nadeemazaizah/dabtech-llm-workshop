@@ -1,0 +1,742 @@
+{
+  "Apple<SEP>Nassem Azaiza": {
+    "chunk_ids": [
+      "chunk-f243a356dca11764395f4052277d996c"
+    ],
+    "count": 1,
+    "create_time": 1763287848,
+    "update_time": 1763287848,
+    "_id": "Apple<SEP>Nassem Azaiza"
+  },
+  "Nassem Azaiza<SEP>Technion - Israel Institute of Technology": {
+    "chunk_ids": [
+      "chunk-f243a356dca11764395f4052277d996c"
+    ],
+    "count": 1,
+    "create_time": 1763287891,
+    "update_time": 1763287891,
+    "_id": "Nassem Azaiza<SEP>Technion - Israel Institute of Technology"
+  },
+  "Nael Masalha<SEP>Nvidia": {
+    "chunk_ids": [
+      "chunk-d84c8ca0c6eeac527607e34110940387"
+    ],
+    "count": 1,
+    "create_time": 1763287892,
+    "update_time": 1763287892,
+    "_id": "Nael Masalha<SEP>Nvidia"
+  },
+  "Bachelor's Degree in Computer Science<SEP>Technion - Israel Institute of Technology": {
+    "chunk_ids": [
+      "chunk-d84c8ca0c6eeac527607e34110940387",
+      "chunk-b7b9fb14f9b955f9be538cc2bcafc234"
+    ],
+    "count": 2,
+    "create_time": 1763287892,
+    "update_time": 1763287892,
+    "_id": "Bachelor's Degree in Computer Science<SEP>Technion - Israel Institute of Technology"
+  },
+  "Dataloop AI<SEP>Husam Massalha": {
+    "chunk_ids": [
+      "chunk-9e634f986041d8c67c32eb5566ca0de4"
+    ],
+    "count": 1,
+    "create_time": 1763287892,
+    "update_time": 1763287892,
+    "_id": "Dataloop AI<SEP>Husam Massalha"
+  },
+  "Intel Corporation<SEP>Nael Masalha": {
+    "chunk_ids": [
+      "chunk-d84c8ca0c6eeac527607e34110940387"
+    ],
+    "count": 1,
+    "create_time": 1763287893,
+    "update_time": 1763287893,
+    "_id": "Intel Corporation<SEP>Nael Masalha"
+  },
+  "Nael Masalha<SEP>Qualcomm": {
+    "chunk_ids": [
+      "chunk-d84c8ca0c6eeac527607e34110940387"
+    ],
+    "count": 1,
+    "create_time": 1763287895,
+    "update_time": 1763287895,
+    "_id": "Nael Masalha<SEP>Qualcomm"
+  },
+  "Husam Massalha<SEP>Intel Corporation": {
+    "chunk_ids": [
+      "chunk-9e634f986041d8c67c32eb5566ca0de4"
+    ],
+    "count": 1,
+    "create_time": 1763287895,
+    "update_time": 1763287895,
+    "_id": "Husam Massalha<SEP>Intel Corporation"
+  },
+  "Husam Massalha<SEP>Technion - Israel Institute of Technology": {
+    "chunk_ids": [
+      "chunk-9e634f986041d8c67c32eb5566ca0de4"
+    ],
+    "count": 1,
+    "create_time": 1763287896,
+    "update_time": 1763287896,
+    "_id": "Husam Massalha<SEP>Technion - Israel Institute of Technology"
+  },
+  "Nael Masalha<SEP>Technion - Israel Institute of Technology": {
+    "chunk_ids": [
+      "chunk-d84c8ca0c6eeac527607e34110940387"
+    ],
+    "count": 1,
+    "create_time": 1763287896,
+    "update_time": 1763287896,
+    "_id": "Nael Masalha<SEP>Technion - Israel Institute of Technology"
+  },
+  "Bachelor of Science (B.Sc.), Computer Science<SEP>Husam Massalha": {
+    "chunk_ids": [
+      "chunk-9e634f986041d8c67c32eb5566ca0de4"
+    ],
+    "count": 1,
+    "create_time": 1763287896,
+    "update_time": 1763287896,
+    "_id": "Bachelor of Science (B.Sc.), Computer Science<SEP>Husam Massalha"
+  },
+  "Nael Masalha<SEP>Senior Software Technical Lead": {
+    "chunk_ids": [
+      "chunk-d84c8ca0c6eeac527607e34110940387"
+    ],
+    "count": 1,
+    "create_time": 1763287953,
+    "update_time": 1763287953,
+    "_id": "Nael Masalha<SEP>Senior Software Technical Lead"
+  },
+  "Husam Massalha<SEP>Static Time Analysis": {
+    "chunk_ids": [
+      "chunk-9e634f986041d8c67c32eb5566ca0de4"
+    ],
+    "count": 1,
+    "create_time": 1763287953,
+    "update_time": 1763287953,
+    "_id": "Husam Massalha<SEP>Static Time Analysis"
+  },
+  "Linux Drivers SW Technical Lead<SEP>Nael Masalha": {
+    "chunk_ids": [
+      "chunk-d84c8ca0c6eeac527607e34110940387"
+    ],
+    "count": 1,
+    "create_time": 1763287956,
+    "update_time": 1763287956,
+    "_id": "Linux Drivers SW Technical Lead<SEP>Nael Masalha"
+  },
+  "Chip Signal Integrity<SEP>Husam Massalha": {
+    "chunk_ids": [
+      "chunk-9e634f986041d8c67c32eb5566ca0de4"
+    ],
+    "count": 1,
+    "create_time": 1763287957,
+    "update_time": 1763287957,
+    "_id": "Chip Signal Integrity<SEP>Husam Massalha"
+  },
+  "NVIDIA<SEP>Ronza Najjar": {
+    "chunk_ids": [
+      "chunk-47216fd2f4f14ee4c8b42b091f6e64ae"
+    ],
+    "count": 1,
+    "create_time": 1763288012,
+    "update_time": 1763288012,
+    "_id": "NVIDIA<SEP>Ronza Najjar"
+  },
+  "Android Camera HAL/Provider SW Technical Lead<SEP>Nael Masalha": {
+    "chunk_ids": [
+      "chunk-d84c8ca0c6eeac527607e34110940387"
+    ],
+    "count": 1,
+    "create_time": 1763288014,
+    "update_time": 1763288014,
+    "_id": "Android Camera HAL/Provider SW Technical Lead<SEP>Nael Masalha"
+  },
+  "Husam Massalha<SEP>Regression Tool": {
+    "chunk_ids": [
+      "chunk-9e634f986041d8c67c32eb5566ca0de4"
+    ],
+    "count": 1,
+    "create_time": 1763288014,
+    "update_time": 1763288014,
+    "_id": "Husam Massalha<SEP>Regression Tool"
+  },
+  "Intel Corporation<SEP>Ronza Najjar": {
+    "chunk_ids": [
+      "chunk-47216fd2f4f14ee4c8b42b091f6e64ae"
+    ],
+    "count": 1,
+    "create_time": 1763288014,
+    "update_time": 1763288014,
+    "_id": "Intel Corporation<SEP>Ronza Najjar"
+  },
+  "Build and Release<SEP>Husam Massalha": {
+    "chunk_ids": [
+      "chunk-9e634f986041d8c67c32eb5566ca0de4"
+    ],
+    "count": 1,
+    "create_time": 1763288071,
+    "update_time": 1763288071,
+    "_id": "Build and Release<SEP>Husam Massalha"
+  },
+  "Nael Masalha<SEP>Windows Drivers SW Engineer": {
+    "chunk_ids": [
+      "chunk-d84c8ca0c6eeac527607e34110940387"
+    ],
+    "count": 1,
+    "create_time": 1763288072,
+    "update_time": 1763288072,
+    "_id": "Nael Masalha<SEP>Windows Drivers SW Engineer"
+  },
+  "Midad Psychometry<SEP>Ronza Najjar": {
+    "chunk_ids": [
+      "chunk-47216fd2f4f14ee4c8b42b091f6e64ae"
+    ],
+    "count": 1,
+    "create_time": 1763288073,
+    "update_time": 1763288073,
+    "_id": "Midad Psychometry<SEP>Ronza Najjar"
+  },
+  "Nael Masalha<SEP>Web Technologies SW Engineer": {
+    "chunk_ids": [
+      "chunk-d84c8ca0c6eeac527607e34110940387"
+    ],
+    "count": 1,
+    "create_time": 1763288076,
+    "update_time": 1763288076,
+    "_id": "Nael Masalha<SEP>Web Technologies SW Engineer"
+  },
+  "Eqraa Psychometry<SEP>Ronza Najjar": {
+    "chunk_ids": [
+      "chunk-47216fd2f4f14ee4c8b42b091f6e64ae"
+    ],
+    "count": 1,
+    "create_time": 1763288077,
+    "update_time": 1763288077,
+    "_id": "Eqraa Psychometry<SEP>Ronza Najjar"
+  },
+  "Ronza Najjar<SEP>Technion - Israel Institute of Technology": {
+    "chunk_ids": [
+      "chunk-47216fd2f4f14ee4c8b42b091f6e64ae"
+    ],
+    "count": 1,
+    "create_time": 1763288132,
+    "update_time": 1763288132,
+    "_id": "Ronza Najjar<SEP>Technion - Israel Institute of Technology"
+  },
+  "Nadeem Azaizah<SEP>University of Haifa": {
+    "chunk_ids": [
+      "chunk-97bc0a9c2f180118f40c087eb249a5ea"
+    ],
+    "count": 1,
+    "create_time": 1763288134,
+    "update_time": 1763288134,
+    "_id": "Nadeem Azaizah<SEP>University of Haifa"
+  },
+  "Ariel University<SEP>Nadeem Azaizah": {
+    "chunk_ids": [
+      "chunk-97bc0a9c2f180118f40c087eb249a5ea"
+    ],
+    "count": 1,
+    "create_time": 1763288136,
+    "update_time": 1763288136,
+    "_id": "Ariel University<SEP>Nadeem Azaizah"
+  },
+  "Microsoft<SEP>Nadeem Azaizah": {
+    "chunk_ids": [
+      "chunk-97bc0a9c2f180118f40c087eb249a5ea"
+    ],
+    "count": 1,
+    "create_time": 1763288137,
+    "update_time": 1763288137,
+    "_id": "Microsoft<SEP>Nadeem Azaizah"
+  },
+  "Feelit Technologies<SEP>Nadeem Azaizah": {
+    "chunk_ids": [
+      "chunk-97bc0a9c2f180118f40c087eb249a5ea"
+    ],
+    "count": 1,
+    "create_time": 1763288194,
+    "update_time": 1763288194,
+    "_id": "Feelit Technologies<SEP>Nadeem Azaizah"
+  },
+  "Amdocs<SEP>Nadeem Azaizah": {
+    "chunk_ids": [
+      "chunk-97bc0a9c2f180118f40c087eb249a5ea"
+    ],
+    "count": 1,
+    "create_time": 1763288252,
+    "update_time": 1763288252,
+    "_id": "Amdocs<SEP>Nadeem Azaizah"
+  },
+  "AtomIQ SmartOps<SEP>Machine Learning": {
+    "chunk_ids": [
+      "chunk-343fecb2de7f8d996ac16589ba666460"
+    ],
+    "count": 1,
+    "create_time": 1763288252,
+    "update_time": 1763288252,
+    "_id": "AtomIQ SmartOps<SEP>Machine Learning"
+  },
+  "Amr Shahbari<SEP>Huawei": {
+    "chunk_ids": [
+      "chunk-093fe7fe6392dd5edd7a438040f48f6b"
+    ],
+    "count": 1,
+    "create_time": 1763288253,
+    "update_time": 1763288253,
+    "_id": "Amr Shahbari<SEP>Huawei"
+  },
+  "Generative AI<SEP>Nadeem Azaizah": {
+    "chunk_ids": [
+      "chunk-97bc0a9c2f180118f40c087eb249a5ea"
+    ],
+    "count": 1,
+    "create_time": 1763288255,
+    "update_time": 1763288255,
+    "_id": "Generative AI<SEP>Nadeem Azaizah"
+  },
+  "Ariel University<SEP>PhD in Industrial Engineering and Management": {
+    "chunk_ids": [
+      "chunk-343fecb2de7f8d996ac16589ba666460",
+      "chunk-823915220b51cc9d77e2aa5c5bd55728"
+    ],
+    "count": 2,
+    "create_time": 1763288255,
+    "update_time": 1763288255,
+    "_id": "Ariel University<SEP>PhD in Industrial Engineering and Management"
+  },
+  "AtomIQ SmartOps<SEP>Business Analyst": {
+    "chunk_ids": [
+      "chunk-343fecb2de7f8d996ac16589ba666460"
+    ],
+    "count": 1,
+    "create_time": 1763288255,
+    "update_time": 1763288255,
+    "_id": "AtomIQ SmartOps<SEP>Business Analyst"
+  },
+  "Amr Shahbari<SEP>Open University": {
+    "chunk_ids": [
+      "chunk-093fe7fe6392dd5edd7a438040f48f6b"
+    ],
+    "count": 1,
+    "create_time": 1763288259,
+    "update_time": 1763288259,
+    "_id": "Amr Shahbari<SEP>Open University"
+  },
+  "Graph Neural Networks<SEP>Nadeem Azaizah": {
+    "chunk_ids": [
+      "chunk-97bc0a9c2f180118f40c087eb249a5ea"
+    ],
+    "count": 1,
+    "create_time": 1763288313,
+    "update_time": 1763288313,
+    "_id": "Graph Neural Networks<SEP>Nadeem Azaizah"
+  },
+  "Ariel University<SEP>Graph Machine Learning": {
+    "chunk_ids": [
+      "chunk-343fecb2de7f8d996ac16589ba666460"
+    ],
+    "count": 1,
+    "create_time": 1763288313,
+    "update_time": 1763288313,
+    "_id": "Ariel University<SEP>Graph Machine Learning"
+  },
+  "Amdocs Ordering System<SEP>Business Analyst": {
+    "chunk_ids": [
+      "chunk-343fecb2de7f8d996ac16589ba666460"
+    ],
+    "count": 1,
+    "create_time": 1763288313,
+    "update_time": 1763288313,
+    "_id": "Amdocs Ordering System<SEP>Business Analyst"
+  },
+  "Fitx<SEP>Naeem Azaizah": {
+    "chunk_ids": [
+      "chunk-ddb21cbe77182fc88644f210518705d7"
+    ],
+    "count": 1,
+    "create_time": 1763288314,
+    "update_time": 1763288314,
+    "_id": "Fitx<SEP>Naeem Azaizah"
+  },
+  "Amr Shahbari<SEP>Intel Corporation": {
+    "chunk_ids": [
+      "chunk-093fe7fe6392dd5edd7a438040f48f6b"
+    ],
+    "count": 1,
+    "create_time": 1763288316,
+    "update_time": 1763288316,
+    "_id": "Amr Shahbari<SEP>Intel Corporation"
+  },
+  "CI/CD Solutions<SEP>Nadeem Azaizah": {
+    "chunk_ids": [
+      "chunk-97bc0a9c2f180118f40c087eb249a5ea"
+    ],
+    "count": 1,
+    "create_time": 1763288316,
+    "update_time": 1763288316,
+    "_id": "CI/CD Solutions<SEP>Nadeem Azaizah"
+  },
+  "Amr Shahbari<SEP>CEVA, Inc.": {
+    "chunk_ids": [
+      "chunk-093fe7fe6392dd5edd7a438040f48f6b"
+    ],
+    "count": 1,
+    "create_time": 1763288318,
+    "update_time": 1763288318,
+    "_id": "Amr Shahbari<SEP>CEVA, Inc."
+  },
+  "Naeem Azaizah<SEP>Target Point": {
+    "chunk_ids": [
+      "chunk-ddb21cbe77182fc88644f210518705d7"
+    ],
+    "count": 1,
+    "create_time": 1763288318,
+    "update_time": 1763288318,
+    "_id": "Naeem Azaizah<SEP>Target Point"
+  },
+  "Amdocs Product Catalog<SEP>Business Analyst": {
+    "chunk_ids": [
+      "chunk-343fecb2de7f8d996ac16589ba666460"
+    ],
+    "count": 1,
+    "create_time": 1763288371,
+    "update_time": 1763288371,
+    "_id": "Amdocs Product Catalog<SEP>Business Analyst"
+  },
+  "Graph-Based AI and ML<SEP>PhD in Industrial Engineering and Management": {
+    "chunk_ids": [
+      "chunk-823915220b51cc9d77e2aa5c5bd55728"
+    ],
+    "count": 1,
+    "create_time": 1763288371,
+    "update_time": 1763288371,
+    "_id": "Graph-Based AI and ML<SEP>PhD in Industrial Engineering and Management"
+  },
+  "Nadeem Azaizah<SEP>Python": {
+    "chunk_ids": [
+      "chunk-97bc0a9c2f180118f40c087eb249a5ea"
+    ],
+    "count": 1,
+    "create_time": 1763288372,
+    "update_time": 1763288372,
+    "_id": "Nadeem Azaizah<SEP>Python"
+  },
+  "17th ILAIS Conference<SEP>Graph-Based Event Correlation and Prediction for IT Operations": {
+    "chunk_ids": [
+      "chunk-823915220b51cc9d77e2aa5c5bd55728"
+    ],
+    "count": 1,
+    "create_time": 1763288372,
+    "update_time": 1763288372,
+    "_id": "17th ILAIS Conference<SEP>Graph-Based Event Correlation and Prediction for IT Operations"
+  },
+  "Amdocs<SEP>Naeem Azaizah": {
+    "chunk_ids": [
+      "chunk-ddb21cbe77182fc88644f210518705d7"
+    ],
+    "count": 1,
+    "create_time": 1763288373,
+    "update_time": 1763288373,
+    "_id": "Amdocs<SEP>Naeem Azaizah"
+  },
+  "Graph Machine Learning<SEP>NetworkX": {
+    "chunk_ids": [
+      "chunk-343fecb2de7f8d996ac16589ba666460"
+    ],
+    "count": 1,
+    "create_time": 1763288373,
+    "update_time": 1763288373,
+    "_id": "Graph Machine Learning<SEP>NetworkX"
+  },
+  "Amr Shahbari<SEP>Master of Science - MS, Computer Science": {
+    "chunk_ids": [
+      "chunk-093fe7fe6392dd5edd7a438040f48f6b"
+    ],
+    "count": 1,
+    "create_time": 1763288373,
+    "update_time": 1763288373,
+    "_id": "Amr Shahbari<SEP>Master of Science - MS, Computer Science"
+  },
+  "Adam Azaizah<SEP>Cisco": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288373,
+    "update_time": 1763288373,
+    "_id": "Adam Azaizah<SEP>Cisco"
+  },
+  "Noah Carter<SEP>Official PhD Completion Confirmation": {
+    "chunk_ids": [
+      "chunk-823915220b51cc9d77e2aa5c5bd55728"
+    ],
+    "count": 1,
+    "create_time": 1763288374,
+    "update_time": 1763288374,
+    "_id": "Noah Carter<SEP>Official PhD Completion Confirmation"
+  },
+  "Anomaly Detection<SEP>Nadeem Azaizah": {
+    "chunk_ids": [
+      "chunk-97bc0a9c2f180118f40c087eb249a5ea"
+    ],
+    "count": 1,
+    "create_time": 1763288375,
+    "update_time": 1763288375,
+    "_id": "Anomaly Detection<SEP>Nadeem Azaizah"
+  },
+  "Naeem Azaizah<SEP>University of Haifa": {
+    "chunk_ids": [
+      "chunk-ddb21cbe77182fc88644f210518705d7"
+    ],
+    "count": 1,
+    "create_time": 1763288375,
+    "update_time": 1763288375,
+    "_id": "Naeem Azaizah<SEP>University of Haifa"
+  },
+  "Graph Machine Learning<SEP>Graph-Based AI and ML": {
+    "chunk_ids": [
+      "chunk-823915220b51cc9d77e2aa5c5bd55728"
+    ],
+    "count": 1,
+    "create_time": 1763288375,
+    "update_time": 1763288375,
+    "_id": "Graph Machine Learning<SEP>Graph-Based AI and ML"
+  },
+  "17th ILAIS Conference<SEP>Ariel University": {
+    "chunk_ids": [
+      "chunk-823915220b51cc9d77e2aa5c5bd55728"
+    ],
+    "count": 1,
+    "create_time": 1763288375,
+    "update_time": 1763288375,
+    "_id": "17th ILAIS Conference<SEP>Ariel University"
+  },
+  "Amr Shahbari<SEP>Toga Networks": {
+    "chunk_ids": [
+      "chunk-093fe7fe6392dd5edd7a438040f48f6b"
+    ],
+    "count": 1,
+    "create_time": 1763288376,
+    "update_time": 1763288376,
+    "_id": "Amr Shahbari<SEP>Toga Networks"
+  },
+  "Adam Azaizah<SEP>Harmonic": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288376,
+    "update_time": 1763288376,
+    "_id": "Adam Azaizah<SEP>Harmonic"
+  },
+  "Nadeem Azaizah<SEP>Natural Language Processing": {
+    "chunk_ids": [
+      "chunk-97bc0a9c2f180118f40c087eb249a5ea"
+    ],
+    "count": 1,
+    "create_time": 1763288377,
+    "update_time": 1763288377,
+    "_id": "Nadeem Azaizah<SEP>Natural Language Processing"
+  },
+  "Management Information Systems<SEP>Naeem Azaizah": {
+    "chunk_ids": [
+      "chunk-ddb21cbe77182fc88644f210518705d7"
+    ],
+    "count": 1,
+    "create_time": 1763288377,
+    "update_time": 1763288377,
+    "_id": "Management Information Systems<SEP>Naeem Azaizah"
+  },
+  "Adam Azaizah<SEP>K2View": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288377,
+    "update_time": 1763288377,
+    "_id": "Adam Azaizah<SEP>K2View"
+  },
+  "Business Process Management<SEP>Naeem Azaizah": {
+    "chunk_ids": [
+      "chunk-ddb21cbe77182fc88644f210518705d7"
+    ],
+    "count": 1,
+    "create_time": 1763288432,
+    "update_time": 1763288432,
+    "_id": "Business Process Management<SEP>Naeem Azaizah"
+  },
+  "Adam Azaizah<SEP>Philips": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288432,
+    "update_time": 1763288432,
+    "_id": "Adam Azaizah<SEP>Philips"
+  },
+  "Amr Shahbari<SEP>Tel Aviv District, Israel": {
+    "chunk_ids": [
+      "chunk-093fe7fe6392dd5edd7a438040f48f6b"
+    ],
+    "count": 1,
+    "create_time": 1763288432,
+    "update_time": 1763288432,
+    "_id": "Amr Shahbari<SEP>Tel Aviv District, Israel"
+  },
+  "Adam Azaizah<SEP>University of Haifa": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288434,
+    "update_time": 1763288434,
+    "_id": "Adam Azaizah<SEP>University of Haifa"
+  },
+  "Customer Relationships Management<SEP>Naeem Azaizah": {
+    "chunk_ids": [
+      "chunk-ddb21cbe77182fc88644f210518705d7"
+    ],
+    "count": 1,
+    "create_time": 1763288434,
+    "update_time": 1763288434,
+    "_id": "Customer Relationships Management<SEP>Naeem Azaizah"
+  },
+  "Adam Azaizah<SEP>Radware": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288435,
+    "update_time": 1763288435,
+    "_id": "Adam Azaizah<SEP>Radware"
+  },
+  "Adam Azaizah<SEP>Kubernetes": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288436,
+    "update_time": 1763288436,
+    "_id": "Adam Azaizah<SEP>Kubernetes"
+  },
+  "Adam Azaizah<SEP>Docker": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288437,
+    "update_time": 1763288437,
+    "_id": "Adam Azaizah<SEP>Docker"
+  },
+  "Java<SEP>QA Automation Engineer": {
+    "chunk_ids": [
+      "chunk-6e2c0e36c2566af590ee83e04c8513c5"
+    ],
+    "count": 1,
+    "create_time": 1763288437,
+    "update_time": 1763288437,
+    "_id": "Java<SEP>QA Automation Engineer"
+  },
+  "Eclipse IDE<SEP>QA Automation Engineer": {
+    "chunk_ids": [
+      "chunk-6e2c0e36c2566af590ee83e04c8513c5"
+    ],
+    "count": 1,
+    "create_time": 1763288438,
+    "update_time": 1763288438,
+    "_id": "Eclipse IDE<SEP>QA Automation Engineer"
+  },
+  "Adam Azaizah<SEP>JUnit": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288438,
+    "update_time": 1763288438,
+    "_id": "Adam Azaizah<SEP>JUnit"
+  },
+  "Git<SEP>QA Automation Engineer": {
+    "chunk_ids": [
+      "chunk-6e2c0e36c2566af590ee83e04c8513c5"
+    ],
+    "count": 1,
+    "create_time": 1763288439,
+    "update_time": 1763288439,
+    "_id": "Git<SEP>QA Automation Engineer"
+  },
+  "Maven<SEP>QA Automation Engineer": {
+    "chunk_ids": [
+      "chunk-6e2c0e36c2566af590ee83e04c8513c5"
+    ],
+    "count": 1,
+    "create_time": 1763288492,
+    "update_time": 1763288492,
+    "_id": "Maven<SEP>QA Automation Engineer"
+  },
+  "Adam Azaizah<SEP>NUnit": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288493,
+    "update_time": 1763288493,
+    "_id": "Adam Azaizah<SEP>NUnit"
+  },
+  "Bachelor of Science (BSc), Computer Science<SEP>University of Haifa": {
+    "chunk_ids": [
+      "chunk-6e2c0e36c2566af590ee83e04c8513c5"
+    ],
+    "count": 1,
+    "create_time": 1763288493,
+    "update_time": 1763288493,
+    "_id": "Bachelor of Science (BSc), Computer Science<SEP>University of Haifa"
+  },
+  "Adam Azaizah<SEP>pytest": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288494,
+    "update_time": 1763288494,
+    "_id": "Adam Azaizah<SEP>pytest"
+  },
+  "ASIC Engineer<SEP>Adam Azaizah": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288495,
+    "update_time": 1763288495,
+    "_id": "ASIC Engineer<SEP>Adam Azaizah"
+  },
+  "Jenkins<SEP>QA Automation Engineer": {
+    "chunk_ids": [
+      "chunk-6e2c0e36c2566af590ee83e04c8513c5"
+    ],
+    "count": 1,
+    "create_time": 1763288495,
+    "update_time": 1763288495,
+    "_id": "Jenkins<SEP>QA Automation Engineer"
+  },
+  "Adam Azaizah<SEP>Automation Developer": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288496,
+    "update_time": 1763288496,
+    "_id": "Adam Azaizah<SEP>Automation Developer"
+  },
+  "Adam Azaizah<SEP>Teacher Assistant": {
+    "chunk_ids": [
+      "chunk-c7c2d4ce202adef13742c973a72b66b1"
+    ],
+    "count": 1,
+    "create_time": 1763288497,
+    "update_time": 1763288497,
+    "_id": "Adam Azaizah<SEP>Teacher Assistant"
+  }
+}

@@ -1,0 +1,10 @@
+<Person Nassem Azaiza
+
+About
+None
+
+Experience
+[Experience(institution_name='Apple', linkedin_url='https://www.linkedin.com/company/162479/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='', to_date='', description='SW & Validation Engineer\nSW & Validation Engineer\nFull-time\nFull-time\nMar 2021 - Present · 4 yrs 8 mos\nMar 2021 to Present · 4 yrs 8 mos\nIsrael\nIsrael\nSW & Validation Student\nSW & Validation Student\nPart-time\nPart-time\nSep 2019 - Mar 2021 · 1 yr 7 mos\nSep 2019 to Mar 2021 · 1 yr 7 mos\nHaifa Area, Israel\nHaifa Area, Israel', position_title='', duration=None, location='')]
+
+Education
+[Education(institution_name='Technion - Israel Institute of Technology', linkedin_url='https://www.linkedin.com/company/3155/', website=None, industry=None, type=None, headquarters=None, company_size=None, founded=None, from_date='2017', to_date='2021', description='', degree="Bachelor's degree, Computer Science")]
