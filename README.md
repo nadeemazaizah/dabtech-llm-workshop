@@ -150,7 +150,7 @@ pip install -r requirements.txt
 Simplified view of the relevant folders:
 
 - `data/`
-	- Community info, members stats, LanceDB vectors, LightRAG storage, and profiles used in the different parts.
+	- Community info, members stats (for Text-to-SQL), LanceDB vectors (for RAG), LightRAG storage (for GraphRAG), and profiles used in the different parts.
 - `notebooks/`
 	- Jupyter notebooks with demos (e.g. `Demo.ipynb`, `test_notebook.ipynb`).
 - `src/`
