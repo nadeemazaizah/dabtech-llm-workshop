@@ -143,14 +143,6 @@ Install all required Python packages using `requirements.txt`:
 pip install -r requirements.txt
 ```
 
-If the project is packaged (with a `setup.py` or `pyproject.toml`) and you want to install it as a package, you can also run:
-
-```pwsh
-pip install .
-```
-
-But for the workshop **`pip install -r requirements.txt` is usually enough**.
-
 ---
 
 ## 6. Project Structure
@@ -169,13 +161,13 @@ Simplified view of the relevant folders:
 	- `Part5_Agent/`
 	- `Chainlit_App/` (if you use Chainlit for UI demos)
 
-Each `PartX_*` folder contains the code for that specific workshop part.
+Each `PartX_*` folder contains the code for that specific part covered in the session.
 
 ---
 
 ## 7. Running Each Part
 
-Below is a high-level guide for running each part. The exact script names may differ depending on the actual code; use this as a starting point and adjust to your file names.
+Below is a high-level guide for running each part.
 
 ### 7.1 Part 1 – Simple LLM Service
 
